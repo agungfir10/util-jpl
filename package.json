@@ -1,0 +1,23 @@
+{
+  "name": "belajar-tesseract",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "up:dtt-nov": "node --stack-size=9999999 upload_dtt_nov.js",
+    "up:sptjm-nov": "node --stack-size=9999999 upload_sptjm_nov.js",
+    "up:pengganti-nov": "node --stack-size=9999999 upload_pengganti_nov.js",
+    "up:perwakilan-nov": "node --stack-size=9999999 upload_perwakilan_nov.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "form-data": "^4.0.0",
+    "google-auth-library": "^9.7.0",
+    "googleapis": "^134.0.0"
+  }
+}

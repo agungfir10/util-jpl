@@ -1,0 +1,16 @@
+node_modules
+images/**/*
+pdf/**/*
+result/**/*
+convert/**/*
+converted/**/*
+compress/**/*
+compressed/**/*
+crop/**/*
+cropped/**/*
+split/**/*
+splitted/**/*
+move/**/*
+moved/**/*
+
+client_secret.json

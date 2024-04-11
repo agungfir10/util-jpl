@@ -1,0 +1,3920 @@
+[
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "BATANG",
+    "DESA": "KALIPUCANG WETAN",
+    "NO_DTT": "DTT-212311500088"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "BATANG",
+    "DESA": "PROYONANGGAN SELATAN",
+    "NO_DTT": "DTT-212311500089"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "BAWANG",
+    "DESA": "CANDIGUGUR",
+    "NO_DTT": "DTT-212311500090"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "BAWANG",
+    "DESA": "SANGUBANYU",
+    "NO_DTT": "DTT-212311500091"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "BLADO",
+    "DESA": "KAMBANGAN",
+    "NO_DTT": "DTT-212311500092"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "GRINGSING",
+    "DESA": "SURODADI",
+    "NO_DTT": "DTT-212311500093"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "LIMPUNG",
+    "DESA": "SUKOREJO",
+    "NO_DTT": "DTT-212311500094"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "SUBAH",
+    "DESA": "KURIPAN",
+    "NO_DTT": "DTT-212311500095"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "TERSONO",
+    "DESA": "SUMURBANGER",
+    "NO_DTT": "DTT-212311500096"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "WARUNGASEM",
+    "DESA": "BANJIRAN",
+    "NO_DTT": "DTT-212311500097"
+  },
+  {
+    "KOTA": "KAB. BATANG",
+    "KECAMATAN": "WONOTUNGGAL",
+    "DESA": "WONOTUNGGAL",
+    "NO_DTT": "DTT-212311500098"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "BANJAREJO",
+    "DESA": "KARANGTALUN",
+    "NO_DTT": "DTT-212311500099"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "JEPON",
+    "DESA": "JOMBLANG",
+    "NO_DTT": "DTT-212311500100"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "NGAWEN",
+    "DESA": "BANDUNGROJO",
+    "NO_DTT": "DTT-212311500101"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "RANDUBLATUNG",
+    "DESA": "PILANG",
+    "NO_DTT": "DTT-212311500102"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "TUNJUNGAN",
+    "DESA": "TAMANREJO",
+    "NO_DTT": "DTT-212311500103"
+  },
+  {
+    "KOTA": "KAB. BLORA",
+    "KECAMATAN": "TUNJUNGAN",
+    "DESA": "TUTUP",
+    "NO_DTT": "DTT-212311500104"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "AMPEL",
+    "DESA": "NGENDEN",
+    "NO_DTT": "DTT-212311500105"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "ANDONG",
+    "DESA": "BEJI",
+    "NO_DTT": "DTT-212311500106"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "ANDONG",
+    "DESA": "KADIPATEN",
+    "NO_DTT": "DTT-212311500107"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "ANDONG",
+    "DESA": "MOJO",
+    "NO_DTT": "DTT-212311500108"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "ANDONG",
+    "DESA": "PAKEL",
+    "NO_DTT": "DTT-212311500109"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "ANDONG",
+    "DESA": "PELEMREJO",
+    "NO_DTT": "DTT-212311500110"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "BOYOLALI",
+    "DESA": "SISWODIPURAN",
+    "NO_DTT": "DTT-212311500111"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "KARANGGEDE",
+    "DESA": "PENGKOL",
+    "NO_DTT": "DTT-212311500112"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "KLEGO",
+    "DESA": "SUMBERAGUNG",
+    "NO_DTT": "DTT-212311500113"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "KLEGO",
+    "DESA": "TANJUNG",
+    "NO_DTT": "DTT-212311500114"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "NGEMPLAK",
+    "DESA": "DIBAL",
+    "NO_DTT": "DTT-212311500115"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "WONOSAMODRO",
+    "DESA": "NGABLAK",
+    "NO_DTT": "DTT-212311500116"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "WONOSEGORO",
+    "DESA": "BANYUSRI",
+    "NO_DTT": "DTT-212311500117"
+  },
+  {
+    "KOTA": "KAB. BOYOLALI",
+    "KECAMATAN": "WONOSEGORO",
+    "DESA": "BOJONG",
+    "NO_DTT": "DTT-212311500118"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BANJARHARJO",
+    "DESA": "BANJARLOR",
+    "NO_DTT": "DTT-212311500119"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BANTARKAWUNG",
+    "DESA": "BANTARWARU",
+    "NO_DTT": "DTT-212311500120"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BANTARKAWUNG",
+    "DESA": "CINANAS",
+    "NO_DTT": "DTT-212311500121"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BANTARKAWUNG",
+    "DESA": "PENGARASAN",
+    "NO_DTT": "DTT-212311500122"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BANTARKAWUNG",
+    "DESA": "WARU",
+    "NO_DTT": "DTT-212311500123"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "BREBES",
+    "NO_DTT": "DTT-212311500124"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "GANDASULI",
+    "NO_DTT": "DTT-212311500125"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "KALIGANGSA WETAN",
+    "NO_DTT": "DTT-212311500126"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "KALIMATI",
+    "NO_DTT": "DTT-212311500127"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "KALIWLINGI",
+    "NO_DTT": "DTT-212311500128"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BREBES",
+    "DESA": "LIMBANGAN KULON",
+    "NO_DTT": "DTT-212311500129"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BULAKAMBA",
+    "DESA": "BANJARATMA",
+    "NO_DTT": "DTT-212311500130"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BULAKAMBA",
+    "DESA": "GRINTING",
+    "NO_DTT": "DTT-212311500131"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BUMIAYU",
+    "DESA": "DUKUHTURI",
+    "NO_DTT": "DTT-212311500132"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BUMIAYU",
+    "DESA": "KALIERANG",
+    "NO_DTT": "DTT-212311500133"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BUMIAYU",
+    "DESA": "KALINUSU",
+    "NO_DTT": "DTT-212311500134"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "BUMIAYU",
+    "DESA": "KALIWADAS",
+    "NO_DTT": "DTT-212311500135"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "JATIBARANG",
+    "DESA": "KEBOGADUNG",
+    "NO_DTT": "DTT-212311500136"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "JATIBARANG",
+    "DESA": "PAMENGGER",
+    "NO_DTT": "DTT-212311500137"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "JATIBARANG",
+    "DESA": "RENGASBANDUNG",
+    "NO_DTT": "DTT-212311500138"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KERSANA",
+    "DESA": "CIKANDANG",
+    "NO_DTT": "DTT-212311500139"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KERSANA",
+    "DESA": "LIMBANGAN",
+    "NO_DTT": "DTT-212311500140"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KERSANA",
+    "DESA": "PENDE",
+    "NO_DTT": "DTT-212311500141"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KETANGGUNGAN",
+    "DESA": "BAROS",
+    "NO_DTT": "DTT-212311500142"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KETANGGUNGAN",
+    "DESA": "BULAKELOR",
+    "NO_DTT": "DTT-212311500143"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KETANGGUNGAN",
+    "DESA": "DUKUHBADAG",
+    "NO_DTT": "DTT-212311500144"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "KETANGGUNGAN",
+    "DESA": "DUKUHTENGAH",
+    "NO_DTT": "DTT-212311500145"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "LARANGAN",
+    "DESA": "SLATRI",
+    "NO_DTT": "DTT-212311500146"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "LOSARI",
+    "DESA": "KARANGJUNTI",
+    "NO_DTT": "DTT-212311500147"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "LOSARI",
+    "DESA": "KECIPIR",
+    "NO_DTT": "DTT-212311500148"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "LOSARI",
+    "DESA": "LIMBANGAN",
+    "NO_DTT": "DTT-212311500149"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "PAGUYANGAN",
+    "DESA": "KRETEK",
+    "NO_DTT": "DTT-212311500150"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "SIRAMPOG",
+    "DESA": "BUNIWAH",
+    "NO_DTT": "DTT-212311500151"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "SIRAMPOG",
+    "DESA": "MANGGIS",
+    "NO_DTT": "DTT-212311500152"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "SIRAMPOG",
+    "DESA": "MENDALA",
+    "NO_DTT": "DTT-212311500153"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "SIRAMPOG",
+    "DESA": "MLAYANG",
+    "NO_DTT": "DTT-212311500154"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "TANJUNG",
+    "DESA": "KEMURANG WETAN",
+    "NO_DTT": "DTT-212311500155"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "TANJUNG",
+    "DESA": "LUWUNGBATA",
+    "NO_DTT": "DTT-212311500156"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "TANJUNG",
+    "DESA": "PENGARADAN",
+    "NO_DTT": "DTT-212311500157"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "TONJONG",
+    "DESA": "LINGGAPURA",
+    "NO_DTT": "DTT-212311500158"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "TONJONG",
+    "DESA": "TONJONG",
+    "NO_DTT": "DTT-212311500159"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "WANASARI",
+    "DESA": "DUMELING",
+    "NO_DTT": "DTT-212311500160"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "WANASARI",
+    "DESA": "JAGALEMPENI",
+    "NO_DTT": "DTT-212311500161"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "WANASARI",
+    "DESA": "KEBOLEDAN",
+    "NO_DTT": "DTT-212311500162"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "WANASARI",
+    "DESA": "KLAMPOK",
+    "NO_DTT": "DTT-212311500163"
+  },
+  {
+    "KOTA": "KAB. BREBES",
+    "KECAMATAN": "WANASARI",
+    "DESA": "SIDAMULYA",
+    "NO_DTT": "DTT-212311500164"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "GEBANG",
+    "NO_DTT": "DTT-212311500200"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "JATIMULYO",
+    "NO_DTT": "DTT-212311500201"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "SERANGAN",
+    "NO_DTT": "DTT-212311500202"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "SUMBEREJO",
+    "NO_DTT": "DTT-212311500203"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "TLOGOBOYO",
+    "NO_DTT": "DTT-212311500204"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "BONANG",
+    "DESA": "WEDING",
+    "NO_DTT": "DTT-212311500205"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "DEMAK",
+    "DESA": "KARANGMLATI",
+    "NO_DTT": "DTT-212311500206"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "DEMAK",
+    "DESA": "KATONSARI",
+    "NO_DTT": "DTT-212311500207"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "DEMAK",
+    "DESA": "MANGUNJIWAN",
+    "NO_DTT": "DTT-212311500208"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "GAJAH",
+    "DESA": "JATISONO",
+    "NO_DTT": "DTT-212311500209"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "GUNTUR",
+    "DESA": "BAKALREJO",
+    "NO_DTT": "DTT-212311500210"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "GUNTUR",
+    "DESA": "BOGOSARI",
+    "NO_DTT": "DTT-212311500211"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "GUNTUR",
+    "DESA": "SIDOHARJO",
+    "NO_DTT": "DTT-212311500212"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "GUNTUR",
+    "DESA": "WONOREJO",
+    "NO_DTT": "DTT-212311500213"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGAWEN",
+    "DESA": "BRAMBANG",
+    "NO_DTT": "DTT-212311500214"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGAWEN",
+    "DESA": "BUMIREJO",
+    "NO_DTT": "DTT-212311500215"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGAWEN",
+    "DESA": "JRAGUNG",
+    "NO_DTT": "DTT-212311500216"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGAWEN",
+    "DESA": "PUNDENARUM",
+    "NO_DTT": "DTT-212311500217"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGAWEN",
+    "DESA": "WONOSEKAR",
+    "NO_DTT": "DTT-212311500218"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGTENGAH",
+    "DESA": "DUKUN",
+    "NO_DTT": "DTT-212311500219"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "KARANGTENGAH",
+    "DESA": "SAMPANG",
+    "NO_DTT": "DTT-212311500220"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "MIJEN",
+    "DESA": "MLATEN",
+    "NO_DTT": "DTT-212311500221"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "MIJEN",
+    "DESA": "NGEGOT",
+    "NO_DTT": "DTT-212311500222"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "MIJEN",
+    "DESA": "NGELOKULON",
+    "NO_DTT": "DTT-212311500223"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "MIJEN",
+    "DESA": "REJOSARI",
+    "NO_DTT": "DTT-212311500224"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "MRANGGEN",
+    "DESA": "BATURSARI",
+    "NO_DTT": "DTT-212311500225"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "WEDUNG",
+    "DESA": "BABALAN",
+    "NO_DTT": "DTT-212311500226"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "WEDUNG",
+    "DESA": "BERAHAN WETAN",
+    "NO_DTT": "DTT-212311500227"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "WEDUNG",
+    "DESA": "NGAWEN",
+    "NO_DTT": "DTT-212311500228"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "WEDUNG",
+    "DESA": "WEDUNG",
+    "NO_DTT": "DTT-212311500229"
+  },
+  {
+    "KOTA": "KAB. DEMAK",
+    "KECAMATAN": "WONOSALAM",
+    "DESA": "TLOGOREJO",
+    "NO_DTT": "DTT-212311500230"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "BRATI",
+    "DESA": "KATEKAN",
+    "NO_DTT": "DTT-212311500231"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GEYER",
+    "DESA": "GEYER",
+    "NO_DTT": "DTT-212311500232"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GEYER",
+    "DESA": "LEDOKDAWAN",
+    "NO_DTT": "DTT-212311500233"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GEYER",
+    "DESA": "NGRANDU",
+    "NO_DTT": "DTT-212311500234"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GODONG",
+    "DESA": "KARANGGENENG",
+    "NO_DTT": "DTT-212311500235"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GODONG",
+    "DESA": "MANGGARWETAN",
+    "NO_DTT": "DTT-212311500236"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GODONG",
+    "DESA": "SAMBUNG",
+    "NO_DTT": "DTT-212311500237"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GROBOGAN",
+    "DESA": "KARANGREJO",
+    "NO_DTT": "DTT-212311500238"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GROBOGAN",
+    "DESA": "PUTATSARI",
+    "NO_DTT": "DTT-212311500239"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GROBOGAN",
+    "DESA": "TANGGUNGHARJO",
+    "NO_DTT": "DTT-212311500240"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GROBOGAN",
+    "DESA": "TEGUHAN",
+    "NO_DTT": "DTT-212311500241"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "GUBUG",
+    "DESA": "PRANTEN",
+    "NO_DTT": "DTT-212311500242"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "KARANGRAYUNG",
+    "DESA": "KETRO",
+    "NO_DTT": "DTT-212311500243"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "KARANGRAYUNG",
+    "DESA": "SENDANGHARJO",
+    "NO_DTT": "DTT-212311500244"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "KEDUNGJATI",
+    "DESA": "KARANGLANGU",
+    "NO_DTT": "DTT-212311500245"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "KLAMBU",
+    "DESA": "TERKESI",
+    "NO_DTT": "DTT-212311500246"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "KRADENAN",
+    "DESA": "BANJARSARI",
+    "NO_DTT": "DTT-212311500247"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PENAWANGAN",
+    "DESA": "PENGKOL",
+    "NO_DTT": "DTT-212311500248"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PULOKULON",
+    "DESA": "JATIHARJO",
+    "NO_DTT": "DTT-212311500249"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PULOKULON",
+    "DESA": "MLOWOKARANGTALUN",
+    "NO_DTT": "DTT-212311500250"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PULOKULON",
+    "DESA": "PULOKULON",
+    "NO_DTT": "DTT-212311500251"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PURWODADI",
+    "DESA": "KALONGAN",
+    "NO_DTT": "DTT-212311500252"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PURWODADI",
+    "DESA": "KURIPAN",
+    "NO_DTT": "DTT-212311500253"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "PURWODADI",
+    "DESA": "NGLOBAR",
+    "NO_DTT": "DTT-212311500254"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TAWANGHARJO",
+    "DESA": "JONO",
+    "NO_DTT": "DTT-212311500255"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TAWANGHARJO",
+    "DESA": "PLOSOREJO",
+    "NO_DTT": "DTT-212311500256"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TAWANGHARJO",
+    "DESA": "SELO",
+    "NO_DTT": "DTT-212311500257"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TEGOWANU",
+    "DESA": "CURUG",
+    "NO_DTT": "DTT-212311500258"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TOROH",
+    "DESA": "DEPOK",
+    "NO_DTT": "DTT-212311500259"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TOROH",
+    "DESA": "PLOSOHARJO",
+    "NO_DTT": "DTT-212311500260"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TOROH",
+    "DESA": "SINDUREJO",
+    "NO_DTT": "DTT-212311500261"
+  },
+  {
+    "KOTA": "KAB. GROBOGAN",
+    "KECAMATAN": "TOROH",
+    "DESA": "TUNGGAK",
+    "NO_DTT": "DTT-212311500262"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "BANGSRI",
+    "DESA": "JERUKWANGI",
+    "NO_DTT": "DTT-212311500263"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "BATEALIT",
+    "DESA": "BAWU",
+    "NO_DTT": "DTT-212311500264"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "BANDENGAN",
+    "NO_DTT": "DTT-212311500265"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "DEMAAN",
+    "NO_DTT": "DTT-212311500266"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "JOBOKUTO",
+    "NO_DTT": "DTT-212311500267"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "KEDUNGCINO",
+    "NO_DTT": "DTT-212311500268"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "MULYOHARJO",
+    "NO_DTT": "DTT-212311500269"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "PANGGANG",
+    "NO_DTT": "DTT-212311500270"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "PENGKOL",
+    "NO_DTT": "DTT-212311500271"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "POTROYUDAN",
+    "NO_DTT": "DTT-212311500272"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "SARIPAN",
+    "NO_DTT": "DTT-212311500273"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "UJUNGBATU",
+    "NO_DTT": "DTT-212311500274"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "JEPARA",
+    "DESA": "WONOREJO",
+    "NO_DTT": "DTT-212311500275"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "BANDUNGREJO",
+    "NO_DTT": "DTT-212311500276"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "BATUKALI",
+    "NO_DTT": "DTT-212311500277"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "DAMARJATI",
+    "NO_DTT": "DTT-212311500278"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "KRIYAN",
+    "NO_DTT": "DTT-212311500279"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "MANYARGADING",
+    "NO_DTT": "DTT-212311500280"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "MARGOYOSO",
+    "NO_DTT": "DTT-212311500281"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "PENDOSAWALAN",
+    "NO_DTT": "DTT-212311500282"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "PURWOGONDO",
+    "NO_DTT": "DTT-212311500283"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KALINYAMATAN",
+    "DESA": "ROBAYAN",
+    "NO_DTT": "DTT-212311500284"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KARIMUNJAWA",
+    "DESA": "KARIMUNJAWA",
+    "NO_DTT": "DTT-212311500285"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KARIMUNJAWA",
+    "DESA": "KEMUJAN",
+    "NO_DTT": "DTT-212311500286"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KARIMUNJAWA",
+    "DESA": "NYAMUK",
+    "NO_DTT": "DTT-212311500287"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KARIMUNJAWA",
+    "DESA": "PARANG",
+    "NO_DTT": "DTT-212311500288"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "BUGEL",
+    "NO_DTT": "DTT-212311500289"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "DONGOS",
+    "NO_DTT": "DTT-212311500290"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "KEDUNGMALANG",
+    "NO_DTT": "DTT-212311500291"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "RAU",
+    "NO_DTT": "DTT-212311500292"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "SOWAN KIDUL",
+    "NO_DTT": "DTT-212311500293"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "SOWAN LOR",
+    "NO_DTT": "DTT-212311500294"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "SUKOSONO",
+    "NO_DTT": "DTT-212311500295"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "SURODADI",
+    "NO_DTT": "DTT-212311500296"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "TEDUNAN",
+    "NO_DTT": "DTT-212311500297"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEDUNG",
+    "DESA": "WANUSOBO",
+    "NO_DTT": "DTT-212311500298"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "BUMIHARJO",
+    "NO_DTT": "DTT-212311500299"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "GELANG",
+    "NO_DTT": "DTT-212311500300"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "KALIGARANG",
+    "NO_DTT": "DTT-212311500301"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "KELET",
+    "NO_DTT": "DTT-212311500302"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "KELING",
+    "NO_DTT": "DTT-212311500303"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "KLEPU",
+    "NO_DTT": "DTT-212311500304"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "KUNIR",
+    "NO_DTT": "DTT-212311500305"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "TUNAHAN",
+    "NO_DTT": "DTT-212311500306"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KELING",
+    "DESA": "WATUAJI",
+    "NO_DTT": "DTT-212311500307"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "BUCU",
+    "NO_DTT": "DTT-212311500308"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "CEPOGO",
+    "NO_DTT": "DTT-212311500309"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "DUDAK AWU",
+    "NO_DTT": "DTT-212311500310"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "JINGGOTAN",
+    "NO_DTT": "DTT-212311500311"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "KALIAMAN",
+    "NO_DTT": "DTT-212311500312"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "KANCILAN",
+    "NO_DTT": "DTT-212311500313"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "PENDEM",
+    "NO_DTT": "DTT-212311500314"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "SUMANDING",
+    "NO_DTT": "DTT-212311500315"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "KEMBANG",
+    "DESA": "TUBANAN",
+    "NO_DTT": "DTT-212311500316"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "BUARAN",
+    "NO_DTT": "DTT-212311500317"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "DATAR",
+    "NO_DTT": "DTT-212311500318"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "JEBOL",
+    "NO_DTT": "DTT-212311500319"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "KUANYAR",
+    "NO_DTT": "DTT-212311500320"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "MAYONG KIDUL",
+    "NO_DTT": "DTT-212311500321"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "MAYONG LOR",
+    "NO_DTT": "DTT-212311500322"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "PANCUR",
+    "NO_DTT": "DTT-212311500323"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "PAREN",
+    "NO_DTT": "DTT-212311500324"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "PELANG",
+    "NO_DTT": "DTT-212311500325"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "PELEMKEREP",
+    "NO_DTT": "DTT-212311500326"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "PULE",
+    "NO_DTT": "DTT-212311500327"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "RAJEKWESI",
+    "NO_DTT": "DTT-212311500328"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "SENGONBUGEL",
+    "NO_DTT": "DTT-212311500329"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "SINGOROJO",
+    "NO_DTT": "DTT-212311500330"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MAYONG",
+    "DESA": "TIGAJURU",
+    "NO_DTT": "DTT-212311500331"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "JAMBU",
+    "NO_DTT": "DTT-212311500332"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "JAMBU TIMUR",
+    "NO_DTT": "DTT-212311500333"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "KARANGGONDANG",
+    "NO_DTT": "DTT-212311500334"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "SEKURO",
+    "NO_DTT": "DTT-212311500335"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "SINANGGUL",
+    "NO_DTT": "DTT-212311500336"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "SROBYONG",
+    "NO_DTT": "DTT-212311500337"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "MLONGGO",
+    "DESA": "SUWAWAL",
+    "NO_DTT": "DTT-212311500338"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "BATEGEDE",
+    "NO_DTT": "DTT-212311500339"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "BEDANPETE",
+    "NO_DTT": "DTT-212311500340"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "BLIMBINGREJO",
+    "NO_DTT": "DTT-212311500341"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "DAREN",
+    "NO_DTT": "DTT-212311500342"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "DORANG",
+    "NO_DTT": "DTT-212311500343"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "GEMIRING KIDUL",
+    "NO_DTT": "DTT-212311500344"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "GEMIRING LOR",
+    "NO_DTT": "DTT-212311500345"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "KARANGNONGKO",
+    "NO_DTT": "DTT-212311500346"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "MURYOLOBO",
+    "NO_DTT": "DTT-212311500347"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "NGETUK",
+    "NO_DTT": "DTT-212311500348"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "PRINGTULIS",
+    "NO_DTT": "DTT-212311500349"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "NALUMSARI",
+    "DESA": "TUNGGULPANDEAN",
+    "NO_DTT": "DTT-212311500350"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "BULUNGAN",
+    "NO_DTT": "DTT-212311500351"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "KAWAK",
+    "NO_DTT": "DTT-212311500352"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "LEBAK",
+    "NO_DTT": "DTT-212311500353"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "MAMBAK",
+    "NO_DTT": "DTT-212311500354"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "SLAGI",
+    "NO_DTT": "DTT-212311500355"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "SUWAWAL TIMUR",
+    "NO_DTT": "DTT-212311500356"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PAKIS AJI",
+    "DESA": "TANJUNG",
+    "NO_DTT": "DTT-212311500357"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "GERDU",
+    "NO_DTT": "DTT-212311500358"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "KALIOMBO",
+    "NO_DTT": "DTT-212311500359"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "KARANGRANDU",
+    "NO_DTT": "DTT-212311500360"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "KRASAK",
+    "NO_DTT": "DTT-212311500361"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "LEBUAWU",
+    "NO_DTT": "DTT-212311500362"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "NGELING",
+    "NO_DTT": "DTT-212311500363"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "PECANGAAN KULON",
+    "NO_DTT": "DTT-212311500364"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "PULODARAT",
+    "NO_DTT": "DTT-212311500365"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "RENGGING",
+    "NO_DTT": "DTT-212311500366"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "PECANGAAN",
+    "DESA": "TROSO",
+    "NO_DTT": "DTT-212311500367"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "DEMANGAN",
+    "NO_DTT": "DTT-212311500368"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "KECAPI",
+    "NO_DTT": "DTT-212311500369"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "KRAPYAK",
+    "NO_DTT": "DTT-212311500370"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "MANTINGAN",
+    "NO_DTT": "DTT-212311500371"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "NGABUL",
+    "NO_DTT": "DTT-212311500372"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "PETEKEYAN",
+    "NO_DTT": "DTT-212311500373"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "PLATAR",
+    "NO_DTT": "DTT-212311500374"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "SUKODONO",
+    "NO_DTT": "DTT-212311500375"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "TAHUNAN",
+    "NO_DTT": "DTT-212311500376"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "TEGALSAMBI",
+    "NO_DTT": "DTT-212311500377"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "TAHUNAN",
+    "DESA": "TELUKAWUR",
+    "NO_DTT": "DTT-212311500378"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "BRANTAK SEKARJATI",
+    "NO_DTT": "DTT-212311500379"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "BUGO",
+    "NO_DTT": "DTT-212311500380"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KALIPUCANG KULON",
+    "NO_DTT": "DTT-212311500381"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KALIPUCANG WETAN",
+    "NO_DTT": "DTT-212311500382"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KARANGANYAR",
+    "NO_DTT": "DTT-212311500383"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KEDUNGSARIMULYO",
+    "NO_DTT": "DTT-212311500384"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KENDENGSIDIALIT",
+    "NO_DTT": "DTT-212311500385"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "KETILENGSINGOLELO",
+    "NO_DTT": "DTT-212311500386"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "SIDIGEDE",
+    "NO_DTT": "DTT-212311500387"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "TELUK WETAN",
+    "NO_DTT": "DTT-212311500388"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "UJUNG PANDAN",
+    "NO_DTT": "DTT-212311500389"
+  },
+  {
+    "KOTA": "KAB. JEPARA",
+    "KECAMATAN": "WELAHAN",
+    "DESA": "WELAHAN",
+    "NO_DTT": "DTT-212311500390"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "GONDANGREJO",
+    "DESA": "DAYU",
+    "NO_DTT": "DTT-212311500391"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "GONDANGREJO",
+    "DESA": "SELOKATON",
+    "NO_DTT": "DTT-212311500392"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "JATIYOSO",
+    "DESA": "TLOBO",
+    "NO_DTT": "DTT-212311500393"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "JUMANTONO",
+    "DESA": "BLORONG",
+    "NO_DTT": "DTT-212311500394"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "KARANGPANDAN",
+    "DESA": "BANGSRI",
+    "NO_DTT": "DTT-212311500395"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "KARANGPANDAN",
+    "DESA": "TOHKUNING",
+    "NO_DTT": "DTT-212311500396"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "KERJO",
+    "DESA": "BOTOK",
+    "NO_DTT": "DTT-212311500397"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "KERJO",
+    "DESA": "TAMANSARI",
+    "NO_DTT": "DTT-212311500398"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "MATESIH",
+    "DESA": "MATESIH",
+    "NO_DTT": "DTT-212311500399"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "MOJOGEDANG",
+    "DESA": "GENTUNGAN",
+    "NO_DTT": "DTT-212311500400"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "MOJOGEDANG",
+    "DESA": "SEWUREJO",
+    "NO_DTT": "DTT-212311500401"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "NGARGOYOSO",
+    "DESA": "KEMUNING",
+    "NO_DTT": "DTT-212311500402"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "TASIKMADU",
+    "DESA": "KALING",
+    "NO_DTT": "DTT-212311500403"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "TASIKMADU",
+    "DESA": "NGIJO",
+    "NO_DTT": "DTT-212311500404"
+  },
+  {
+    "KOTA": "KAB. KARANGANYAR",
+    "KECAMATAN": "TAWANGMANGU",
+    "DESA": "KALISORO",
+    "NO_DTT": "DTT-212311500405"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "BOJA",
+    "DESA": "KLIRIS",
+    "NO_DTT": "DTT-212311500446"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "BOJA",
+    "DESA": "METESEH",
+    "NO_DTT": "DTT-212311500447"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "BRANGSONG",
+    "DESA": "KERTOMULYO",
+    "NO_DTT": "DTT-212311500448"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "BRANGSONG",
+    "DESA": "TUNGGULSARI",
+    "NO_DTT": "DTT-212311500449"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "CEPIRING",
+    "DESA": "CEPIRING",
+    "NO_DTT": "DTT-212311500450"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "CEPIRING",
+    "DESA": "KALIRANDUGEDE",
+    "NO_DTT": "DTT-212311500451"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "CEPIRING",
+    "DESA": "MARGOREJO",
+    "NO_DTT": "DTT-212311500452"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "CEPIRING",
+    "DESA": "SIDOMULYO",
+    "NO_DTT": "DTT-212311500453"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "GEMUH",
+    "DESA": "GALIH",
+    "NO_DTT": "DTT-212311500454"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "GEMUH",
+    "DESA": "SEDAYU",
+    "NO_DTT": "DTT-212311500455"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "GEMUH",
+    "DESA": "SOJOMERTO",
+    "NO_DTT": "DTT-212311500456"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "KALIWUNGU",
+    "DESA": "KARANGTENGAH",
+    "NO_DTT": "DTT-212311500457"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "KANGKUNG",
+    "DESA": "TANJUNGMOJO",
+    "NO_DTT": "DTT-212311500458"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "KENDAL",
+    "DESA": "BANYUTOWO",
+    "NO_DTT": "DTT-212311500459"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "KENDAL",
+    "DESA": "KEBONDALEM",
+    "NO_DTT": "DTT-212311500460"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "KENDAL",
+    "DESA": "SUKODONO",
+    "NO_DTT": "DTT-212311500461"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "LIMBANGAN",
+    "DESA": "LIMBANGAN",
+    "NO_DTT": "DTT-212311500462"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PATEAN",
+    "DESA": "KALILUMPANG",
+    "NO_DTT": "DTT-212311500463"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PATEAN",
+    "DESA": "PLOSOSARI",
+    "NO_DTT": "DTT-212311500464"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PATEAN",
+    "DESA": "SIDODADI",
+    "NO_DTT": "DTT-212311500465"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PEGANDON",
+    "DESA": "PENANGGULAN",
+    "NO_DTT": "DTT-212311500466"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PLANTUNGAN",
+    "DESA": "JURANGAGUNG",
+    "NO_DTT": "DTT-212311500467"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PLANTUNGAN",
+    "DESA": "MANGGUNGMANGU",
+    "NO_DTT": "DTT-212311500468"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "PLANTUNGAN",
+    "DESA": "TLOGOPAYUNG",
+    "NO_DTT": "DTT-212311500469"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "RINGINARUM",
+    "DESA": "NGERJO",
+    "NO_DTT": "DTT-212311500470"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "RINGINARUM",
+    "DESA": "WUNGUREJO",
+    "NO_DTT": "DTT-212311500471"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "ROWOSARI",
+    "DESA": "GEMPOLSEWU",
+    "NO_DTT": "DTT-212311500472"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "SINGOROJO",
+    "DESA": "KEDUNGSARI",
+    "NO_DTT": "DTT-212311500473"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "KARANGANOM",
+    "NO_DTT": "DTT-212311500474"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "KARANGDOWO",
+    "NO_DTT": "DTT-212311500475"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "NAWANGSARI",
+    "NO_DTT": "DTT-212311500476"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "PENARUBAN",
+    "NO_DTT": "DTT-212311500477"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "PENYANGKRINGAN",
+    "NO_DTT": "DTT-212311500478"
+  },
+  {
+    "KOTA": "KAB. KENDAL",
+    "KECAMATAN": "WELERI",
+    "DESA": "PUCUKSARI",
+    "NO_DTT": "DTT-212311500479"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "BAYAT",
+    "DESA": "BOGEM",
+    "NO_DTT": "DTT-212311500480"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "BAYAT",
+    "DESA": "GUNUNGGAJAH",
+    "NO_DTT": "DTT-212311500481"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "BAYAT",
+    "DESA": "NGERANGAN",
+    "NO_DTT": "DTT-212311500482"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "CAWAS",
+    "DESA": "GOMBANG",
+    "NO_DTT": "DTT-212311500483"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "GANTIWARNO",
+    "DESA": "JABUNG",
+    "NO_DTT": "DTT-212311500484"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JATINOM",
+    "DESA": "BETENG",
+    "NO_DTT": "DTT-212311500485"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JATINOM",
+    "DESA": "MRANGGEN",
+    "NO_DTT": "DTT-212311500486"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JOGONALAN",
+    "DESA": "PRAWATAN",
+    "NO_DTT": "DTT-212311500487"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JOGONALAN",
+    "DESA": "SOMOPURO",
+    "NO_DTT": "DTT-212311500488"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JUWIRING",
+    "DESA": "GONDANGSARI",
+    "NO_DTT": "DTT-212311500489"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JUWIRING",
+    "DESA": "JUWIRAN",
+    "NO_DTT": "DTT-212311500490"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "JUWIRING",
+    "DESA": "TLOGORANDU",
+    "NO_DTT": "DTT-212311500491"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KALIKOTES",
+    "DESA": "GEMBLEGAN",
+    "NO_DTT": "DTT-212311500492"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KALIKOTES",
+    "DESA": "JIMBUNG",
+    "NO_DTT": "DTT-212311500493"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KALIKOTES",
+    "DESA": "NGEMPLAK",
+    "NO_DTT": "DTT-212311500494"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KARANGANOM",
+    "DESA": "KUNDEN",
+    "NO_DTT": "DTT-212311500495"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KARANGDOWO",
+    "DESA": "MUNGGUNG",
+    "NO_DTT": "DTT-212311500496"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KEBONARUM",
+    "DESA": "BASIN",
+    "NO_DTT": "DTT-212311500497"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KLATEN SELATAN",
+    "DESA": "GLODOGAN",
+    "NO_DTT": "DTT-212311500498"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KLATEN SELATAN",
+    "DESA": "MERBUNG",
+    "NO_DTT": "DTT-212311500499"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KLATEN SELATAN",
+    "DESA": "NGLINGGI",
+    "NO_DTT": "DTT-212311500500"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KLATEN UTARA",
+    "DESA": "GERGUNUNG",
+    "NO_DTT": "DTT-212311500501"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "KLATEN UTARA",
+    "DESA": "KETANDAN",
+    "NO_DTT": "DTT-212311500502"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "MANISRENGGO",
+    "DESA": "SOLODIRAN",
+    "NO_DTT": "DTT-212311500503"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "PEDAN",
+    "DESA": "KEDUNGAN",
+    "NO_DTT": "DTT-212311500504"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "TRUCUK",
+    "DESA": "JATIPURO",
+    "NO_DTT": "DTT-212311500505"
+  },
+  {
+    "KOTA": "KAB. KLATEN",
+    "KECAMATAN": "TRUCUK",
+    "DESA": "PULUHAN",
+    "NO_DTT": "DTT-212311500506"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "GEBOG",
+    "DESA": "MENAWAN",
+    "NO_DTT": "DTT-212311500507"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "JATI",
+    "DESA": "JEPANGPAKIS",
+    "NO_DTT": "DTT-212311500508"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "JATI",
+    "DESA": "NGEMBAL KULON",
+    "NO_DTT": "DTT-212311500509"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "KOTA KUDUS",
+    "DESA": "JANGGALAN",
+    "NO_DTT": "DTT-212311500510"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "KOTA KUDUS",
+    "DESA": "PURWOSARI",
+    "NO_DTT": "DTT-212311500511"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "MEJOBO",
+    "DESA": "MEJOBO",
+    "NO_DTT": "DTT-212311500512"
+  },
+  {
+    "KOTA": "KAB. KUDUS",
+    "KECAMATAN": "UNDAAN",
+    "DESA": "MEDINI",
+    "NO_DTT": "DTT-212311500513"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "CLUWAK",
+    "DESA": "MOJO",
+    "NO_DTT": "DTT-212311500560"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "BANYUTOWO",
+    "NO_DTT": "DTT-212311500561"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "DUKUHSETI",
+    "NO_DTT": "DTT-212311500562"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "DUMPIL",
+    "NO_DTT": "DTT-212311500563"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "GROGOLAN",
+    "NO_DTT": "DTT-212311500564"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "KEMBANG",
+    "NO_DTT": "DTT-212311500565"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "NGAGEL",
+    "NO_DTT": "DTT-212311500566"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "PUNCEL",
+    "NO_DTT": "DTT-212311500567"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "DUKUHSETI",
+    "DESA": "WEDUSAN",
+    "NO_DTT": "DTT-212311500568"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "GABUS",
+    "DESA": "MINTOBASUKI",
+    "NO_DTT": "DTT-212311500569"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "GEMBONG",
+    "DESA": "GEMBONG",
+    "NO_DTT": "DTT-212311500570"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "GEMBONG",
+    "DESA": "PLUKARAN",
+    "NO_DTT": "DTT-212311500571"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "JAKEN",
+    "DESA": "SUMBEREJO",
+    "NO_DTT": "DTT-212311500572"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "KAYEN",
+    "DESA": "DURENSAWIT",
+    "NO_DTT": "DTT-212311500573"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "KAYEN",
+    "DESA": "SUMBERSARI",
+    "NO_DTT": "DTT-212311500574"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "KAYEN",
+    "DESA": "TALUN",
+    "NO_DTT": "DTT-212311500575"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "BANYUURIP",
+    "NO_DTT": "DTT-212311500576"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "BUMIREJO",
+    "NO_DTT": "DTT-212311500577"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "JAMBEAN KIDUL",
+    "NO_DTT": "DTT-212311500578"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "JIMBARAN",
+    "NO_DTT": "DTT-212311500579"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "MATARAMAN",
+    "NO_DTT": "DTT-212311500580"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "MUKTIHARJO",
+    "NO_DTT": "DTT-212311500581"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "NGAWEN",
+    "NO_DTT": "DTT-212311500582"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "SOKOKULON",
+    "NO_DTT": "DTT-212311500583"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "SUKOHARJO",
+    "NO_DTT": "DTT-212311500584"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOREJO",
+    "DESA": "WANGUNREJO",
+    "NO_DTT": "DTT-212311500585"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOYOSO",
+    "DESA": "CEBOLEK KIDUL",
+    "NO_DTT": "DTT-212311500586"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOYOSO",
+    "DESA": "NGEMPLAK KIDUL",
+    "NO_DTT": "DTT-212311500587"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOYOSO",
+    "DESA": "PANGKALAN",
+    "NO_DTT": "DTT-212311500588"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "MARGOYOSO",
+    "DESA": "TUNJUNGREJO",
+    "NO_DTT": "DTT-212311500589"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "PATI",
+    "DESA": "KUTOHARJO",
+    "NO_DTT": "DTT-212311500590"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "PATI",
+    "DESA": "PATI KIDUL",
+    "NO_DTT": "DTT-212311500591"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "PUCAKWANGI",
+    "DESA": "LUMBUNGMAS",
+    "NO_DTT": "DTT-212311500592"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "SUKOLILO",
+    "DESA": "KASIYAN",
+    "NO_DTT": "DTT-212311500593"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "SUKOLILO",
+    "DESA": "PORANGPARING",
+    "NO_DTT": "DTT-212311500594"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAMBAKROMO",
+    "DESA": "ANGKATAN LOR",
+    "NO_DTT": "DTT-212311500595"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "BENDOKATON KIDUL",
+    "NO_DTT": "DTT-212311500596"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "BULUNGAN",
+    "NO_DTT": "DTT-212311500597"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "DOROREJO",
+    "NO_DTT": "DTT-212311500598"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "JEPAT KIDUL",
+    "NO_DTT": "DTT-212311500599"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "JEPAT LOR",
+    "NO_DTT": "DTT-212311500600"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "KALIKALONG",
+    "NO_DTT": "DTT-212311500601"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "KEBOROMO",
+    "NO_DTT": "DTT-212311500602"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "KEDUNGBANG",
+    "NO_DTT": "DTT-212311500603"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "KEDUNGSARI",
+    "NO_DTT": "DTT-212311500604"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "LUWANG",
+    "NO_DTT": "DTT-212311500605"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "MARGOMULYO",
+    "NO_DTT": "DTT-212311500606"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "PAKIS",
+    "NO_DTT": "DTT-212311500607"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "PONDOWAN",
+    "NO_DTT": "DTT-212311500608"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "PUNDENREJO",
+    "NO_DTT": "DTT-212311500609"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "PURWOKERTO",
+    "NO_DTT": "DTT-212311500610"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "SAMBIROTO",
+    "NO_DTT": "DTT-212311500611"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "SENDANGREJO",
+    "NO_DTT": "DTT-212311500612"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "TAYU KULON",
+    "NO_DTT": "DTT-212311500613"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "TAYU WETAN",
+    "NO_DTT": "DTT-212311500614"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "TENDAS",
+    "NO_DTT": "DTT-212311500615"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TAYU",
+    "DESA": "TUNGGULSARI",
+    "NO_DTT": "DTT-212311500616"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TLOGOWUNGU",
+    "DESA": "GUNUNGSARI",
+    "NO_DTT": "DTT-212311500617"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TLOGOWUNGU",
+    "DESA": "GUWO",
+    "NO_DTT": "DTT-212311500618"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TLOGOWUNGU",
+    "DESA": "SUWATU",
+    "NO_DTT": "DTT-212311500619"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "TLOGOWUNGU",
+    "DESA": "WONOREJO",
+    "NO_DTT": "DTT-212311500620"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "BANGSALREJO",
+    "NO_DTT": "DTT-212311500621"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "BUMIAYU",
+    "NO_DTT": "DTT-212311500622"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "JONTRO",
+    "NO_DTT": "DTT-212311500623"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "PAGERHARJO",
+    "NO_DTT": "DTT-212311500624"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "SIDOHARJO",
+    "NO_DTT": "DTT-212311500625"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WEDARIJAKSA",
+    "DESA": "TLUWUK",
+    "NO_DTT": "DTT-212311500626"
+  },
+  {
+    "KOTA": "KAB. PATI",
+    "KECAMATAN": "WINONG",
+    "DESA": "SERUTSADANG",
+    "NO_DTT": "DTT-212311500627"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "BUARAN",
+    "DESA": "SIMBANGWETAN",
+    "NO_DTT": "DTT-212311500628"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "DORO",
+    "DESA": "WRINGINAGUNG",
+    "NO_DTT": "DTT-212311500629"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KAJEN",
+    "DESA": "GANDARUM",
+    "NO_DTT": "DTT-212311500630"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KAJEN",
+    "DESA": "KEBONAGUNG",
+    "NO_DTT": "DTT-212311500631"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KAJEN",
+    "DESA": "SAMBIROTO",
+    "NO_DTT": "DTT-212311500632"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KARANGANYAR",
+    "DESA": "GUTOMO",
+    "NO_DTT": "DTT-212311500633"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KARANGANYAR",
+    "DESA": "PODODADI",
+    "NO_DTT": "DTT-212311500634"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "AMBOKEMBANG",
+    "NO_DTT": "DTT-212311500635"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "KEDUNGWUNI BARAT",
+    "NO_DTT": "DTT-212311500636"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "KEDUNGWUNI TIMUR",
+    "NO_DTT": "DTT-212311500637"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "PAJOMBLANGAN",
+    "NO_DTT": "DTT-212311500638"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "PEKAJANGAN",
+    "NO_DTT": "DTT-212311500639"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "RENGAS",
+    "NO_DTT": "DTT-212311500640"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KEDUNGWUNI",
+    "DESA": "TANGKILKULON",
+    "NO_DTT": "DTT-212311500641"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KESESI",
+    "DESA": "KWIGARAN",
+    "NO_DTT": "DTT-212311500642"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "KESESI",
+    "DESA": "UJUNGNEGORO",
+    "NO_DTT": "DTT-212311500643"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "SIWALAN",
+    "DESA": "TUNJUNGSARI",
+    "NO_DTT": "DTT-212311500644"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "SRAGI",
+    "DESA": "SRAGI",
+    "NO_DTT": "DTT-212311500645"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "TIRTO",
+    "DESA": "CURUG",
+    "NO_DTT": "DTT-212311500646"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "TIRTO",
+    "DESA": "KARANGANYAR",
+    "NO_DTT": "DTT-212311500647"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "TIRTO",
+    "DESA": "TEGALDOWO",
+    "NO_DTT": "DTT-212311500648"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "WONOKERTO",
+    "DESA": "BEBEL",
+    "NO_DTT": "DTT-212311500649"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "WONOKERTO",
+    "DESA": "ROWOYOSO",
+    "NO_DTT": "DTT-212311500650"
+  },
+  {
+    "KOTA": "KAB. PEKALONGAN",
+    "KECAMATAN": "WONOKERTO",
+    "DESA": "WONOKERTOKULON",
+    "NO_DTT": "DTT-212311500651"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "AMPELGADING",
+    "DESA": "KARANGTENGAH",
+    "NO_DTT": "DTT-212311500652"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "AMPELGADING",
+    "DESA": "LOSARI",
+    "NO_DTT": "DTT-212311500653"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "AMPELGADING",
+    "DESA": "TEGALSARI TIMUR",
+    "NO_DTT": "DTT-212311500654"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "BANTARBOLANG",
+    "DESA": "BANJARSARI",
+    "NO_DTT": "DTT-212311500655"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "BELIK",
+    "DESA": "GUNUNGJAYA",
+    "NO_DTT": "DTT-212311500656"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "BODEH",
+    "DESA": "JATIROYOM",
+    "NO_DTT": "DTT-212311500657"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "MOGA",
+    "DESA": "WALANGSANGA",
+    "NO_DTT": "DTT-212311500658"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "PEMALANG",
+    "DESA": "BANJARMULYA",
+    "NO_DTT": "DTT-212311500659"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "PEMALANG",
+    "DESA": "MENGORI",
+    "NO_DTT": "DTT-212311500660"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "PEMALANG",
+    "DESA": "MULYOHARJO",
+    "NO_DTT": "DTT-212311500661"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "PETARUKAN",
+    "DESA": "KLAREYAN",
+    "NO_DTT": "DTT-212311500662"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "PULOSARI",
+    "DESA": "CIKENDUNG",
+    "NO_DTT": "DTT-212311500663"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "TAMAN",
+    "DESA": "WANAREJAN UTARA",
+    "NO_DTT": "DTT-212311500664"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "ULUJAMI",
+    "DESA": "SUKOREJO",
+    "NO_DTT": "DTT-212311500665"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "WATUKUMPUL",
+    "DESA": "MAJALANGU",
+    "NO_DTT": "DTT-212311500666"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "WATUKUMPUL",
+    "DESA": "TLAGASANA",
+    "NO_DTT": "DTT-212311500667"
+  },
+  {
+    "KOTA": "KAB. PEMALANG",
+    "KECAMATAN": "WATUKUMPUL",
+    "DESA": "WATUKUMPUL",
+    "NO_DTT": "DTT-212311500668"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "KALIORI",
+    "DESA": "MOJOWARNO",
+    "NO_DTT": "DTT-212311500724"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "LASEM",
+    "DESA": "GOWAK",
+    "NO_DTT": "DTT-212311500725"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "PANCUR",
+    "DESA": "TRENGGULUNAN",
+    "NO_DTT": "DTT-212311500726"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "REMBANG",
+    "DESA": "GEDANGAN",
+    "NO_DTT": "DTT-212311500727"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "REMBANG",
+    "DESA": "KABONGAN KIDUL",
+    "NO_DTT": "DTT-212311500728"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "REMBANG",
+    "DESA": "PANDEAN",
+    "NO_DTT": "DTT-212311500729"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "REMBANG",
+    "DESA": "SIDOWAYAH",
+    "NO_DTT": "DTT-212311500730"
+  },
+  {
+    "KOTA": "KAB. REMBANG",
+    "KECAMATAN": "SULANG",
+    "DESA": "KEREP",
+    "NO_DTT": "DTT-212311500731"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "AMBARAWA",
+    "DESA": "PANJANG",
+    "NO_DTT": "DTT-212311500732"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "BANYUBIRU",
+    "DESA": "SEPAKUNG",
+    "NO_DTT": "DTT-212311500733"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "BRINGIN",
+    "DESA": "BANDING",
+    "NO_DTT": "DTT-212311500734"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "BRINGIN",
+    "DESA": "GOGODALEM",
+    "NO_DTT": "DTT-212311500735"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "GETASAN",
+    "DESA": "JETAK",
+    "NO_DTT": "DTT-212311500736"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "JAMBU",
+    "DESA": "BEDONO",
+    "NO_DTT": "DTT-212311500737"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "PABELAN",
+    "DESA": "PADAAN",
+    "NO_DTT": "DTT-212311500738"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "PABELAN",
+    "DESA": "SEGIRI",
+    "NO_DTT": "DTT-212311500739"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "SURUH",
+    "DESA": "KEDUNGRINGIN",
+    "NO_DTT": "DTT-212311500740"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "SURUH",
+    "DESA": "SURUH",
+    "NO_DTT": "DTT-212311500741"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "SUSUKAN",
+    "DESA": "GENTAN",
+    "NO_DTT": "DTT-212311500742"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "SUSUKAN",
+    "DESA": "KORIPAN",
+    "NO_DTT": "DTT-212311500743"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "TENGARAN",
+    "DESA": "BARUKAN",
+    "NO_DTT": "DTT-212311500744"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "TENGARAN",
+    "DESA": "KLERO",
+    "NO_DTT": "DTT-212311500745"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "TENGARAN",
+    "DESA": "SUGIHAN",
+    "NO_DTT": "DTT-212311500746"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "TUNTANG",
+    "DESA": "DELIK",
+    "NO_DTT": "DTT-212311500747"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "UNGARAN BARAT",
+    "DESA": "BRANJANG",
+    "NO_DTT": "DTT-212311500748"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "UNGARAN BARAT",
+    "DESA": "LANGENSARI",
+    "NO_DTT": "DTT-212311500749"
+  },
+  {
+    "KOTA": "KAB. SEMARANG",
+    "KECAMATAN": "UNGARAN BARAT",
+    "DESA": "UNGARAN",
+    "NO_DTT": "DTT-212311500750"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "GEMOLONG",
+    "DESA": "GEMOLONG",
+    "NO_DTT": "DTT-212311500751"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "KALIJAMBE",
+    "DESA": "SAREN",
+    "NO_DTT": "DTT-212311500752"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "KARANGMALANG",
+    "DESA": "SARADAN",
+    "NO_DTT": "DTT-212311500753"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "SAMBIREJO",
+    "DESA": "DAWUNG",
+    "NO_DTT": "DTT-212311500754"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "SAMBIREJO",
+    "DESA": "JAMBEYAN",
+    "NO_DTT": "DTT-212311500755"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "SAMBUNGMACAN",
+    "DESA": "BANARAN",
+    "NO_DTT": "DTT-212311500756"
+  },
+  {
+    "KOTA": "KAB. SRAGEN",
+    "KECAMATAN": "SRAGEN",
+    "DESA": "TANGKIL",
+    "NO_DTT": "DTT-212311500757"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BAKI",
+    "DESA": "BENTAKAN",
+    "NO_DTT": "DTT-212311500758"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BAKI",
+    "DESA": "WARU",
+    "NO_DTT": "DTT-212311500759"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BENDOSARI",
+    "DESA": "CABEYAN",
+    "NO_DTT": "DTT-212311500760"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BENDOSARI",
+    "DESA": "MANISHARJO",
+    "NO_DTT": "DTT-212311500761"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BULU",
+    "DESA": "LENGKING",
+    "NO_DTT": "DTT-212311500762"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "BULU",
+    "DESA": "TIYARAN",
+    "NO_DTT": "DTT-212311500763"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GATAK",
+    "DESA": "KRAJAN",
+    "NO_DTT": "DTT-212311500764"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GATAK",
+    "DESA": "LUWANG",
+    "NO_DTT": "DTT-212311500765"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GATAK",
+    "DESA": "SANGGUNG",
+    "NO_DTT": "DTT-212311500766"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GROGOL",
+    "DESA": "BANARAN",
+    "NO_DTT": "DTT-212311500767"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GROGOL",
+    "DESA": "CEMANI",
+    "NO_DTT": "DTT-212311500768"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GROGOL",
+    "DESA": "GEDANGAN",
+    "NO_DTT": "DTT-212311500769"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GROGOL",
+    "DESA": "PANDEYAN",
+    "NO_DTT": "DTT-212311500770"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "GROGOL",
+    "DESA": "PONDOK",
+    "NO_DTT": "DTT-212311500771"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "KARTASURA",
+    "DESA": "MAKAMHAJI",
+    "NO_DTT": "DTT-212311500772"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "KARTASURA",
+    "DESA": "NGADIREJO",
+    "NO_DTT": "DTT-212311500773"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "KARTASURA",
+    "DESA": "PUCANGAN",
+    "NO_DTT": "DTT-212311500774"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "KARTASURA",
+    "DESA": "WIROGUNAN",
+    "NO_DTT": "DTT-212311500775"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "MOJOLABAN",
+    "DESA": "JOHO",
+    "NO_DTT": "DTT-212311500776"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "MOJOLABAN",
+    "DESA": "KLUMPRIT",
+    "NO_DTT": "DTT-212311500777"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "MOJOLABAN",
+    "DESA": "KRAGILAN",
+    "NO_DTT": "DTT-212311500778"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "MOJOLABAN",
+    "DESA": "LABAN",
+    "NO_DTT": "DTT-212311500779"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "POLOKARTO",
+    "DESA": "BAKALAN",
+    "NO_DTT": "DTT-212311500780"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "POLOKARTO",
+    "DESA": "PRANAN",
+    "NO_DTT": "DTT-212311500781"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "SUKOHARJO",
+    "DESA": "BULAKAN",
+    "NO_DTT": "DTT-212311500782"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "SUKOHARJO",
+    "DESA": "JETIS",
+    "NO_DTT": "DTT-212311500783"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "SUKOHARJO",
+    "DESA": "KENEP",
+    "NO_DTT": "DTT-212311500784"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "SUKOHARJO",
+    "DESA": "KRIWEN",
+    "NO_DTT": "DTT-212311500785"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "SUKOHARJO",
+    "DESA": "SUKOHARJO",
+    "NO_DTT": "DTT-212311500786"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "TAWANGSARI",
+    "DESA": "DALANGAN",
+    "NO_DTT": "DTT-212311500787"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "TAWANGSARI",
+    "DESA": "LOROG",
+    "NO_DTT": "DTT-212311500788"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "TAWANGSARI",
+    "DESA": "TAMBAKBOYO",
+    "NO_DTT": "DTT-212311500789"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "WERU",
+    "DESA": "ALASOMBO",
+    "NO_DTT": "DTT-212311500790"
+  },
+  {
+    "KOTA": "KAB. SUKOHARJO",
+    "KECAMATAN": "WERU",
+    "DESA": "KARAKAN",
+    "NO_DTT": "DTT-212311500791"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "ADIWERNA",
+    "DESA": "ADIWERNA",
+    "NO_DTT": "DTT-212311500792"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "ADIWERNA",
+    "DESA": "PENARUKAN",
+    "NO_DTT": "DTT-212311500793"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "ADIWERNA",
+    "DESA": "PESAREAN",
+    "NO_DTT": "DTT-212311500794"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "BALAPULANG",
+    "DESA": "BATUAGUNG",
+    "NO_DTT": "DTT-212311500795"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "BUMIJAWA",
+    "DESA": "MUNCANGLARANG",
+    "NO_DTT": "DTT-212311500796"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "DUKUHTURI",
+    "DESA": "KEPANDEAN",
+    "NO_DTT": "DTT-212311500797"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "DUKUHTURI",
+    "DESA": "PEKAUMAN KULON",
+    "NO_DTT": "DTT-212311500798"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "KEDUNGBANTENG",
+    "DESA": "KEDUNGBANTENG",
+    "NO_DTT": "DTT-212311500799"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "KRAMAT",
+    "DESA": "KEMUNING",
+    "NO_DTT": "DTT-212311500800"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "LEBAKSIU",
+    "DESA": "LEBAKSIU KIDUL",
+    "NO_DTT": "DTT-212311500801"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "SURADADI",
+    "DESA": "KERTASARI",
+    "NO_DTT": "DTT-212311500802"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "SURADADI",
+    "DESA": "SIDAHARJA",
+    "NO_DTT": "DTT-212311500803"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "SURADADI",
+    "DESA": "SURADADI",
+    "NO_DTT": "DTT-212311500804"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "TALANG",
+    "DESA": "GEMBONGKULON",
+    "NO_DTT": "DTT-212311500805"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "TARUB",
+    "DESA": "KEDUNGBUNGKUS",
+    "NO_DTT": "DTT-212311500806"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "TARUB",
+    "DESA": "MARGAPADANG",
+    "NO_DTT": "DTT-212311500807"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "WARUREJA",
+    "DESA": "BANJARAGUNG",
+    "NO_DTT": "DTT-212311500808"
+  },
+  {
+    "KOTA": "KAB. TEGAL",
+    "KECAMATAN": "WARUREJA",
+    "DESA": "DEMANGHARJO",
+    "NO_DTT": "DTT-212311500809"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "BATURETNO",
+    "DESA": "GAMBIRANOM",
+    "NO_DTT": "DTT-212311500831"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "BATURETNO",
+    "DESA": "WATUAGUNG",
+    "NO_DTT": "DTT-212311500832"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "BULUKERTO",
+    "DESA": "KRANDEGAN",
+    "NO_DTT": "DTT-212311500833"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "GIRIWOYO",
+    "DESA": "BUMIHARJO",
+    "NO_DTT": "DTT-212311500834"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "KISMANTORO",
+    "DESA": "GESING",
+    "NO_DTT": "DTT-212311500835"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "KISMANTORO",
+    "DESA": "NGROTO",
+    "NO_DTT": "DTT-212311500836"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "MANYARAN",
+    "DESA": "PIJIHARJO",
+    "NO_DTT": "DTT-212311500837"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "MANYARAN",
+    "DESA": "PUNDUHSARI",
+    "NO_DTT": "DTT-212311500838"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "NGADIROJO",
+    "DESA": "KERJO KIDUL",
+    "NO_DTT": "DTT-212311500839"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "NGADIROJO",
+    "DESA": "KERJO LOR",
+    "NO_DTT": "DTT-212311500840"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "NGADIROJO",
+    "DESA": "NGADIROJO LOR",
+    "NO_DTT": "DTT-212311500841"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "PRACIMANTORO",
+    "DESA": "GEDONG",
+    "NO_DTT": "DTT-212311500842"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "PRACIMANTORO",
+    "DESA": "JOHO",
+    "NO_DTT": "DTT-212311500843"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "PRACIMANTORO",
+    "DESA": "SUMBERAGUNG",
+    "NO_DTT": "DTT-212311500844"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "PURWANTORO",
+    "DESA": "PLOSO",
+    "NO_DTT": "DTT-212311500845"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "SELOGIRI",
+    "DESA": "PARE",
+    "NO_DTT": "DTT-212311500846"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "SIDOHARJO",
+    "DESA": "MOJORENO",
+    "NO_DTT": "DTT-212311500847"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "SLOGOHIMO",
+    "DESA": "BULUSARI",
+    "NO_DTT": "DTT-212311500848"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "TIRTOMOYO",
+    "DESA": "HARGANTORO",
+    "NO_DTT": "DTT-212311500849"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "TIRTOMOYO",
+    "DESA": "NGARJOSARI",
+    "NO_DTT": "DTT-212311500850"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "WONOGIRI",
+    "DESA": "BULUSULUR",
+    "NO_DTT": "DTT-212311500851"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "WONOGIRI",
+    "DESA": "GIRIPURWO",
+    "NO_DTT": "DTT-212311500852"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "WONOGIRI",
+    "DESA": "POKOHKIDUL",
+    "NO_DTT": "DTT-212311500853"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "WONOGIRI",
+    "DESA": "PURWOSARI",
+    "NO_DTT": "DTT-212311500854"
+  },
+  {
+    "KOTA": "KAB. WONOGIRI",
+    "KECAMATAN": "WURYANTORO",
+    "DESA": "PULUTAN WETAN",
+    "NO_DTT": "DTT-212311500855"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN BARAT",
+    "DESA": "PRINGREJO",
+    "NO_DTT": "DTT-212311500876"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN SELATAN",
+    "DESA": "BUARAN KRADENAN",
+    "NO_DTT": "DTT-212311500877"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN SELATAN",
+    "DESA": "KURIPAN YOSOREJO",
+    "NO_DTT": "DTT-212311500878"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN TIMUR",
+    "DESA": "PONCOL",
+    "NO_DTT": "DTT-212311500879"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN UTARA",
+    "DESA": "DEGAYU",
+    "NO_DTT": "DTT-212311500880"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN UTARA",
+    "DESA": "KANDANG PANJANG",
+    "NO_DTT": "DTT-212311500881"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN UTARA",
+    "DESA": "KRAPYAK",
+    "NO_DTT": "DTT-212311500882"
+  },
+  {
+    "KOTA": "KOTA PEKALONGAN",
+    "KECAMATAN": "PEKALONGAN UTARA",
+    "DESA": "PANJANG WETAN",
+    "NO_DTT": "DTT-212311500883"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "ARGOMULYO",
+    "DESA": "KUMPULREJO",
+    "NO_DTT": "DTT-212311500884"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "ARGOMULYO",
+    "DESA": "LEDOK",
+    "NO_DTT": "DTT-212311500885"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "ARGOMULYO",
+    "DESA": "RANDUACIR",
+    "NO_DTT": "DTT-212311500886"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "SIDOMUKTI",
+    "DESA": "KECANDRAN",
+    "NO_DTT": "DTT-212311500887"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "SIDOMUKTI",
+    "DESA": "MANGUNSARI",
+    "NO_DTT": "DTT-212311500888"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "SIDOREJO",
+    "DESA": "PULUTAN",
+    "NO_DTT": "DTT-212311500889"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "SIDOREJO",
+    "DESA": "SALATIGA",
+    "NO_DTT": "DTT-212311500890"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "SIDOREJO",
+    "DESA": "SIDOREJO LOR",
+    "NO_DTT": "DTT-212311500891"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "TINGKIR",
+    "DESA": "SIDOREJO KIDUL",
+    "NO_DTT": "DTT-212311500892"
+  },
+  {
+    "KOTA": "KOTA SALATIGA",
+    "KECAMATAN": "TINGKIR",
+    "DESA": "TINGKIR LOR",
+    "NO_DTT": "DTT-212311500893"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "CANDISARI",
+    "DESA": "JOMBLANG",
+    "NO_DTT": "DTT-212311500894"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GAYAMSARI",
+    "DESA": "PANDEAN LAMPER",
+    "NO_DTT": "DTT-212311500895"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "BANGETAYU KULON",
+    "NO_DTT": "DTT-212311500896"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "BANGETAYU WETAN",
+    "NO_DTT": "DTT-212311500897"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "GENUKSARI",
+    "NO_DTT": "DTT-212311500898"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "KARANGROTO",
+    "NO_DTT": "DTT-212311500899"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "KUDU",
+    "NO_DTT": "DTT-212311500900"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "PENGGARON LOR",
+    "NO_DTT": "DTT-212311500901"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GENUK",
+    "DESA": "SEMBUNGHARJO",
+    "NO_DTT": "DTT-212311500902"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "GUNUNGPATI",
+    "DESA": "MANGUNSARI",
+    "NO_DTT": "DTT-212311500903"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "MIJEN",
+    "DESA": "WONOPLUMBON",
+    "NO_DTT": "DTT-212311500904"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "PEDURUNGAN",
+    "DESA": "PALEBON",
+    "NO_DTT": "DTT-212311500905"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "PEDURUNGAN",
+    "DESA": "PENGGARON KIDUL",
+    "NO_DTT": "DTT-212311500906"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "PEDURUNGAN",
+    "DESA": "PLAMONGANSARI",
+    "NO_DTT": "DTT-212311500907"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG BARAT",
+    "DESA": "KROBOKAN",
+    "NO_DTT": "DTT-212311500908"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG BARAT",
+    "DESA": "TAWANGMAS",
+    "NO_DTT": "DTT-212311500909"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG SELATAN",
+    "DESA": "LAMPER TENGAH",
+    "NO_DTT": "DTT-212311500910"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG SELATAN",
+    "DESA": "MUGASARI",
+    "NO_DTT": "DTT-212311500911"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TENGAH",
+    "DESA": "GABAHAN",
+    "NO_DTT": "DTT-212311500912"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TENGAH",
+    "DESA": "JAGALAN",
+    "NO_DTT": "DTT-212311500913"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TENGAH",
+    "DESA": "KEMBANGSARI",
+    "NO_DTT": "DTT-212311500914"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TENGAH",
+    "DESA": "MIROTO",
+    "NO_DTT": "DTT-212311500915"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TENGAH",
+    "DESA": "PANDANSARI",
+    "NO_DTT": "DTT-212311500916"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TIMUR",
+    "DESA": "KEMIJEN",
+    "NO_DTT": "DTT-212311500917"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TIMUR",
+    "DESA": "REJOMULYO",
+    "NO_DTT": "DTT-212311500918"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TIMUR",
+    "DESA": "REJOSARI",
+    "NO_DTT": "DTT-212311500919"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG TIMUR",
+    "DESA": "SARIREJO",
+    "NO_DTT": "DTT-212311500920"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "BANDARHARJO",
+    "NO_DTT": "DTT-212311500921"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "BULU LOR",
+    "NO_DTT": "DTT-212311500922"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "DADAPSARI",
+    "NO_DTT": "DTT-212311500923"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "KUNINGAN",
+    "NO_DTT": "DTT-212311500924"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "PANGGUNG KIDUL",
+    "NO_DTT": "DTT-212311500925"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "SEMARANG UTARA",
+    "DESA": "TANJUNG MAS",
+    "NO_DTT": "DTT-212311500926"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "TEMBALANG",
+    "DESA": "METESEH",
+    "NO_DTT": "DTT-212311500927"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "TEMBALANG",
+    "DESA": "SENDANGGUWO",
+    "NO_DTT": "DTT-212311500928"
+  },
+  {
+    "KOTA": "KOTA SEMARANG",
+    "KECAMATAN": "TEMBALANG",
+    "DESA": "SENDANGMULYO",
+    "NO_DTT": "DTT-212311500929"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "BANJARSARI",
+    "DESA": "JOGLO",
+    "NO_DTT": "DTT-212311500930"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "BANJARSARI",
+    "DESA": "KADIPIRO",
+    "NO_DTT": "DTT-212311500931"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "BANJARSARI",
+    "DESA": "NUSUKAN",
+    "NO_DTT": "DTT-212311500932"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "BANJARSARI",
+    "DESA": "SUMBER",
+    "NO_DTT": "DTT-212311500933"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "JEBRES",
+    "DESA": "JAGALAN",
+    "NO_DTT": "DTT-212311500934"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "JEBRES",
+    "DESA": "JEBRES",
+    "NO_DTT": "DTT-212311500935"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "JEBRES",
+    "DESA": "MOJOSONGO",
+    "NO_DTT": "DTT-212311500936"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "JEBRES",
+    "DESA": "PUCANGSAWIT",
+    "NO_DTT": "DTT-212311500937"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "BUMI",
+    "NO_DTT": "DTT-212311500938"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "JAJAR",
+    "NO_DTT": "DTT-212311500939"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "KERTEN",
+    "NO_DTT": "DTT-212311500940"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "LAWEYAN",
+    "NO_DTT": "DTT-212311500941"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "SONDAKAN",
+    "NO_DTT": "DTT-212311500942"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "LAWEYAN",
+    "DESA": "SRIWEDARI",
+    "NO_DTT": "DTT-212311500943"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "BALUWARTI",
+    "NO_DTT": "DTT-212311500944"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "GAJAHAN",
+    "NO_DTT": "DTT-212311500945"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "KEDUNGLUMBU",
+    "NO_DTT": "DTT-212311500946"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "MOJO",
+    "NO_DTT": "DTT-212311500947"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "SANGKRAH",
+    "NO_DTT": "DTT-212311500948"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "PASAR KLIWON",
+    "DESA": "SEMANGGI",
+    "NO_DTT": "DTT-212311500949"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "SERENGAN",
+    "DESA": "DANUKUSUMAN",
+    "NO_DTT": "DTT-212311500950"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "SERENGAN",
+    "DESA": "JAYENGAN",
+    "NO_DTT": "DTT-212311500951"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "SERENGAN",
+    "DESA": "SERENGAN",
+    "NO_DTT": "DTT-212311500952"
+  },
+  {
+    "KOTA": "KOTA SURAKARTA",
+    "KECAMATAN": "SERENGAN",
+    "DESA": "TIPES",
+    "NO_DTT": "DTT-212311500953"
+  },
+  {
+    "KOTA": "KOTA TEGAL",
+    "KECAMATAN": "MARGADANA",
+    "DESA": "KALIGANGSA",
+    "NO_DTT": "DTT-212311500954"
+  },
+  {
+    "KOTA": "KOTA TEGAL",
+    "KECAMATAN": "TEGAL BARAT",
+    "DESA": "KEMANDUNGAN",
+    "NO_DTT": "DTT-212311500955"
+  },
+  {
+    "KOTA": "KOTA TEGAL",
+    "KECAMATAN": "TEGAL BARAT",
+    "DESA": "MUARAREJA",
+    "NO_DTT": "DTT-212311500956"
+  },
+  {
+    "KOTA": "KOTA TEGAL",
+    "KECAMATAN": "TEGAL TIMUR",
+    "DESA": "SLEROK",
+    "NO_DTT": "DTT-212311500957"
+  }
+]
