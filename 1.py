@@ -25,18 +25,9 @@ def split_pdf_to_images(index, path):
             mx = fitz.Matrix(2, 2)
             image = image_list.get_pixmap(matrix = mx)
 
-            if os.path.exists(os.path.join(path, folder)):
-                image.pil_save(os.path.join(path, folder, f"{page_number}.jpg"), optimize=False)
-            else:
+            if not os.path.exists(os.path.join(path, folder)):
                 os.mkdir(os.path.join(path, folder))
-                os.mkdir(os.path.join(path, folder, 'DTT'))
-                os.mkdir(os.path.join(path, folder, 'SPTJM'))
-                os.mkdir(os.path.join(path, folder, 'PENGGANTI'))
-                os.mkdir(os.path.join(path, folder, 'PERWAKILAN'))
-                os.mkdir(os.path.join(path, folder, 'DO'))
-                os.mkdir(os.path.join(path, folder, 'GUDANG'))
-                os.mkdir(os.path.join(path, folder, 'SURAT JALAN'))
-                image.pil_save(os.path.join(path, folder, f"{page_number}.jpg"), optimize=False)
+            image.pil_save(os.path.join(path, folder, f"{page_number}.jpg"), optimize=False)
 
         split_pdf_to_images(index + 1, path)
 

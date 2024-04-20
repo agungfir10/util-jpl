@@ -4,14 +4,13 @@ import shutil
 from sys import argv, setrecursionlimit
 from natsort import natsorted
 
-
 def rotate_pdf(path):
     
    folders = natsorted(os.listdir(os.path.join(path)))
    for folder in folders:
       files = natsorted(os.listdir(os.path.join(path, folder)))
 
-      print(folder)
+      print(folder, len(files))
       for file in files:
          filename, ext = os.path.splitext(file)
          if ext == '.pdf':
@@ -22,7 +21,7 @@ def rotate_pdf(path):
                      pdf_writer = PdfWriter()
                      pdf_writer.add_metadata({'/Title':f'{folder}-{filename}'})
                      for page in pdf_reader.pages:
-                        page.rotate(180)
+                        page.rotate(90)
                         pdf_writer.add_page(page)
                      new_filename = f"{filename}-ROTATED-180{ext}"
                      

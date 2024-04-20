@@ -24,7 +24,7 @@ def merge_images_to_pdf(path):
                                 image_files = natsorted(os.listdir(os.path.join(path, folder, folder_image)))
                                 c = canvas.Canvas(output_pdf, pagesize=letter)
                                 if len(image_files) != 0:
-                                    print(os.path.join(path, folder, folder_image + '.pdf'))
+                                    print(os.path.join(folder_image + '.pdf'))
                                     for image_file in image_files:
                                         c.drawImage(os.path.join(path, folder, folder_image, image_file), 0, 0, width=letter[0], height=letter[1])
                                         c.showPage()  # Start a new page for each image

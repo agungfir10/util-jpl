@@ -195,3 +195,65 @@ SUKSES
 KAB. SRAGEN-SAMBUNGMACAN-BANARAN
 SUKSES
 Selesai...
+
+```
+node --stack-size=9999999 upload_dtt_tambahan_3_sep.js "E:\DOKUMEN TAMBAHAN 3 JATENG\DOKUMEN SEPTEMBER TAMBAHAN 3\KOTA PEKALONGAN" && node --stack-size=9999999 upload_sptjm_tambahan_3_sep.js "E:\DOKUMEN TAMBAHAN 3 JATENG\DOKUMEN SEPTEMBER TAMBAHAN 3\KOTA PEKALONGAN" && node --stack-size=9999999 upload_pengganti_tambahan_3_sep.js "E:\DOKUMEN TAMBAHAN 3 JATENG\DOKUMEN SEPTEMBER TAMBAHAN 3\KOTA PEKALONGAN" && node --stack-size=9999999 upload_perwakilan_tambahan_3_sep.js "E:\DOKUMEN TAMBAHAN 3 JATENG\DOKUMEN SEPTEMBER TAMBAHAN 3\KOTA PEKALONGAN"
+```
+
+```js
+{
+  credentials: {
+    access_token: 'ya29.a0Ad52N39ohtxMbCB2qgDer1N9Yyru2WIWRV40feOlReibhtrN9cFnOegBeFU3lwAmHL7f7faSbD_0W8oHmlQWutjjGKMlT_9DGtZCyVgxE_dFc-JVQSMigXTc4reZx48izaHd9EZGZC-cs-P3C3xryORwpp5vyHnSd5diaCgYKAZESARMSFQHGX2MiebXdmk3yRjexnKUJ6ZaGtw0171',
+    scope: 'https://www.googleapis.com/auth/drive.file',
+    token_type: 'Bearer',
+    expiry_date: 1713410753009,
+    refresh_token: '1//0g6QKAjLn8HHzCgYIARAAGBASNwF-L9Ir6bnHk-5Gu8s0i4ff9-LHc1bJEHY2IIRJFMWJKLXv4hBTWmdHl43lOitJk8liRXT2Prg'
+  },
+  res: {
+    config: {
+      retry: true,
+      retryConfig: [Object],
+      method: 'POST',
+      url: 'https://oauth2.googleapis.com/token',
+      data: 'refresh_token=1%2F%2F0g6QKAjLn8HHzCgYIARAAGBASNwF-L9Ir6bnHk-5Gu8s0i4ff9-LHc1bJEHY2IIRJFMWJKLXv4hBTWmdHl43lOitJk8liRXT2Prg&client_id=1035086825463-kdsdo7h1hms8ou9ngtn8sq2p4ssa2upl.apps.googleusercontent.com&client_secret=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&grant_type=refresh_token',
+      headers: [Object],
+      paramsSerializer: [Function: paramsSerializer],
+      body: 'refresh_token=1%2F%2F0g6QKAjLn8HHzCgYIARAAGBASNwF-L9Ir6bnHk-5Gu8s0i4ff9-LHc1bJEHY2IIRJFMWJKLXv4hBTWmdHl43lOitJk8liRXT2Prg&client_id=1035086825463-kdsdo7h1hms8ou9ngtn8sq2p4ssa2upl.apps.googleusercontent.com&client_secret=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&grant_type=refresh_token',
+      validateStatus: [Function: validateStatus],
+      responseType: 'unknown',
+      errorRedactor: [Function: defaultErrorRedactor]
+    },
+    data: {
+      access_token: 'ya29.a0Ad52N39ohtxMbCB2qgDer1N9Yyru2WIWRV40feOlReibhtrN9cFnOegBeFU3lwAmHL7f7faSbD_0W8oHmlQWutjjGKMlT_9DGtZCyVgxE_dFc-JVQSMigXTc4reZx48izaHd9EZGZC-cs-P3C3xryORwpp5vyHnSd5diaCgYKAZESARMSFQHGX2MiebXdmk3yRjexnKUJ6ZaGtw0171',
+      scope: 'https://www.googleapis.com/auth/drive.file',
+      token_type: 'Bearer',
+      expiry_date: 1713410753009,
+      refresh_token: '1//0g6QKAjLn8HHzCgYIARAAGBASNwF-L9Ir6bnHk-5Gu8s0i4ff9-LHc1bJEHY2IIRJFMWJKLXv4hBTWmdHl43lOitJk8liRXT2Prg'
+    },
+    headers: {
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'cache-control': 'no-cache, no-store, max-age=0, must-revalidate',
+      'content-encoding': 'gzip',
+      'content-type': 'application/json; charset=utf-8',
+      date: 'Thu, 18 Apr 2024 02:25:54 GMT',
+      expires: 'Mon, 01 Jan 1990 00:00:00 GMT',
+      pragma: 'no-cache',
+      server: 'scaffolding on HTTPServer2',
+      'transfer-encoding': 'chunked',
+      vary: 'Origin, X-Origin, Referer',
+      'x-content-type-options': 'nosniff',
+      'x-frame-options': 'SAMEORIGIN',
+      'x-xss-protection': '0'
+    },
+    status: 200,
+    statusText: 'OK',
+    request: { responseURL: 'https://oauth2.googleapis.com/token' }
+  }
+}
+```
+
+### UPLOAD DOC
+
+```
+node upload_doc.js DTT SEP +1 E:/PATH
+```

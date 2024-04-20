@@ -16,7 +16,7 @@ def split_pdf_to_images(path):
         if '.jpg' in file or '.png' in file:
             filename, ext = os.path.splitext(file)
             image = Image.open(os.path.join(path, file))
-            image_rotated = image.rotate(180, expand=True)
+            image_rotated = image.rotate(-90, expand=True)
             image_rotated.save(os.path.join(path, f'{filename}-ROTATED{ext}'))
             os.remove(os.path.join(path, file))
             os.rename(os.path.join(path, f'{filename}-ROTATED{ext}'), os.path.join(path, file))

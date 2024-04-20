@@ -33,8 +33,9 @@ def split_pdf_to_images(path):
                     output_str = output.decode()
                     # print(output_str)
                     gudang = ['GUDANG', 'BAST GUDANG', 'BASTGUDANG']
-                    surat_jalan = ['SURATJALAN', 'SURAT JALAN']
+                    surat_jalan = ['SURATJALAN', 'SURAT JALAN', 'Sudah menerima dokumen']
                     pengganti = ['PENGGANTI', 'Pengganti']
+                    perwakilan = ['PERWAKILAN', 'Perwakilan', 'DIWAKILKAN', 'Diwakilkan']
                     so = ['NPWP']
                     dtt = [
                         'QR CODE',
@@ -70,7 +71,7 @@ def split_pdf_to_images(path):
                         if not os.path.exists(os.path.join(path, folder, 'PENGGANTI')):
                             os.mkdir(os.path.join(path, folder, 'PENGGANTI'))
                         shutil.move(os.path.join(path, folder, image), os.path.join(path, folder, 'PENGGANTI', image))
-                    elif 'PERWAKILAN' in output_str:
+                    elif any(sub in output_str for sub in perwakilan):
                         if not os.path.exists(os.path.join(path, folder, 'PERWAKILAN')):
                             os.mkdir(os.path.join(path, folder, 'PERWAKILAN'))
                         shutil.move(os.path.join(path, folder, image), os.path.join(path, folder, 'PERWAKILAN', image))

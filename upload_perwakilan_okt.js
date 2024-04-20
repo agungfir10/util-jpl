@@ -42,7 +42,7 @@ function uploadDtt() {
   if (index < dtt.length) {
     const { NO_DTT, TANGGAL, KOTA, KECAMATAN, DESA } = dtt[index];
     const tanggal = TANGGAL.split("/")[1];
-    const date = new Date(`12-${tanggal}-2023`);
+    const date = new Date(`10-${tanggal}-2023`);
     if (checkFolderExists(join(pathFolder, `${KOTA}-${KECAMATAN}-${DESA}`))) {
       if (
         checkFolderExists(

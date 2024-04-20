@@ -7,10 +7,10 @@ from natsort import natsorted
 
 def rotate_pdf(path):
     
-
       files = natsorted(os.listdir(os.path.join(path, )))
 
-      for file in files:
+      for index,file in enumerate(files):
+         print(index, '/', len(files), file)
          filename, ext = os.path.splitext(file)
          if ext == '.pdf':
             try:
@@ -20,7 +20,7 @@ def rotate_pdf(path):
                      pdf_writer = PdfWriter()
                      pdf_writer.add_metadata({'/Title':f'{filename}'})
                      for page in pdf_reader.pages:
-                        page.rotate(90)
+                        page.rotate(-90)
                         pdf_writer.add_page(page)
                      new_filename = f"{filename}-ROTATED-180{ext}"
                      
@@ -36,8 +36,8 @@ def rotate_pdf(path):
                   os.remove(os.path.join(path, file))
 
 if len(argv) >= 2:
-    print('Rotates image...')
+    print('Rotasi PDF dimulai...')
     path = argv[1]
     rotate_pdf(path)
 else:
-    print('No Such File or Directory...')
+    print('Tidak ada file PDF pada direktori...')

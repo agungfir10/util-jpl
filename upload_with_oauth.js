@@ -1,32 +1,26 @@
 import fs from "fs";
 import readline from "readline";
 import { google } from "googleapis";
+import credentials from "./client_secret.json" assert { type: "json" };
 
 const SCOPES = ["https://www.googleapis.com/auth/drive.file"];
 const TOKEN_PATH = "token.json";
 
-// Load client secrets from a local file.
-fs.readFile("client_secret_agung.json", (err, content) => {
-  if (err) return console.log("Error loading client secret file:", err);
-  authorize(JSON.parse(content), createFolder);
-});
+const { client_secret, client_id, redirect_uris } = credentials.web;
+const oAuth2Client = new google.auth.OAuth2(
+  client_id,
+  client_secret,
+  redirect_uris
+);
 
-function authorize(credentials, callback) {
-  const { client_secret, client_id, redirect_uris } = credentials.web;
-  const oAuth2Client = new google.auth.OAuth2(
-    client_id,
-    client_secret,
-    redirect_uris
-  );
-
+function authorize() {
   fs.readFile(TOKEN_PATH, (err, token) => {
-    if (err) return getAccessToken(oAuth2Client, callback);
+    if (err) return getAccessToken(oAuth2Client);
     oAuth2Client.setCredentials(JSON.parse(token));
-    callback(oAuth2Client);
   });
 }
 
-function getAccessToken(oAuth2Client, callback) {
+function getAccessToken(oAuth2Client) {
   const authUrl = oAuth2Client.generateAuthUrl({
     access_type: "offline",
     scope: SCOPES,
@@ -49,6 +43,12 @@ function getAccessToken(oAuth2Client, callback) {
       });
       callback(oAuth2Client);
     });
+  });
+}
+
+function refreshToken() {
+  oAuth2Client.refreshAccessToken((err, credentialsResult) => {
+    if (err) console.log("Error : ", err);
   });
 }
 
@@ -95,10 +95,12 @@ function createFolder(auth) {
     },
     (err, file) => {
       if (err) {
-        console.error("The API returned an error: " + err);
+        console.error("Upload The API returned an error: " + err);
         return;
       }
       console.log("File uploaded: %s", file.data.id);
     }
   );
 }
+
+authorize(credentials, createFolder);

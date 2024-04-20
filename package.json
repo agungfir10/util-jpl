@@ -8,7 +8,15 @@
     "up:dtt-nov": "node --stack-size=9999999 upload_dtt_nov.js",
     "up:sptjm-nov": "node --stack-size=9999999 upload_sptjm_nov.js",
     "up:pengganti-nov": "node --stack-size=9999999 upload_pengganti_nov.js",
-    "up:perwakilan-nov": "node --stack-size=9999999 upload_perwakilan_nov.js"
+    "up:perwakilan-nov": "node --stack-size=9999999 upload_perwakilan_nov.js",
+    "up:dtt-okt": "node --stack-size=9999999 upload_dtt_okt.js",
+    "up:sptjm-okt": "node --stack-size=9999999 upload_sptjm_okt.js",
+    "up:pengganti-okt": "node --stack-size=9999999 upload_pengganti_okt.js",
+    "up:perwakilan-okt": "node --stack-size=9999999 upload_perwakilan_okt.js",
+    "up:dtt-sep": "node --stack-size=9999999 upload_dtt_sep.js",
+    "up:sptjm-sep": "node --stack-size=9999999 upload_sptjm_sep.js",
+    "up:pengganti-sep": "node --stack-size=9999999 upload_pengganti_sep.js",
+    "up:perwakilan-sep": "node --stack-size=9999999 upload_perwakilan_sep.js"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +25,7 @@
     "axios": "^1.6.8",
     "chalk": "^5.3.0",
     "form-data": "^4.0.0",
-    "google-auth-library": "^9.7.0",
+    "google-auth-library": "^9.8.0",
     "googleapis": "^134.0.0"
   }
 }

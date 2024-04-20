@@ -1,16 +1,21 @@
-import fs from "fs";
-import path from "path";
+import { renameSync, accessSync, readdirSync } from "fs";
+import { join } from "path";
 
-const filepath = "";
-const folders = fs.readdirSync(path.join(filepath));
+const path = "E:\\HASIL\\T1 November\\PEKALONGAN UTARA";
+const folders = readdirSync(join(path));
 
 folders.forEach((folder) => {
   console.log(folder);
-  const files = fs.readdirSync(path.join(filepath, folder));
+  const files = readdirSync(join(path, folder));
   files.forEach((file) => {
-    fs.renameSync(
-      path.join(filepath, folder, file),
-      path.join(filepath, folder, "DTT.pdf")
-    );
+    if (file.includes("SPTJM")) {
+      try {
+        console.log(file);
+        accessSync(join(path, folder, file));
+        renameSync(join(path, folder, file), join(path, folder, "SPTJM.pdf"));
+      } catch (e) {
+        console.log(e);
+      }
+    }
   });
 });
