@@ -37,7 +37,7 @@ const pathUploaded = join(
 
 const pathIndex = join(
   "cache",
-  `${path.replaceAll("\\", "-").replaceAll(":", "")}-${type}-index.txt`
+  `${path.replaceAll("\\", "-").replaceAll('/', '-').replaceAll(":", "")}-${type}-index.txt`
 );
 const dtt = JSON.parse(
   readFileSync(join(__dirname, "data", `${alokasi}_${keterangan}_UPLOAD.json`))
