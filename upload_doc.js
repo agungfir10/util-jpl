@@ -12,10 +12,7 @@ import dtt from "./data/DES_REG_UPLOAD.json" assert { type: "json" };
 import { formatDate } from "./const.js";
 import chalk from "chalk";
 import { argv } from 'process'
-
-// argv[2] = ALOKASI
-// argv[3] = KETERANGAN (REG, +1, +2, +3)
-// argv[4] = JENIS DOKUMEN
+import cities from './data/KAB_KOTA.json' assert {type: 'json'}
 
 if (argv.length < 6) {
   throw new Error('Argumen kurang lengkap!')
@@ -24,8 +21,11 @@ if (argv.length < 6) {
 const alokasi = getAlokasi(argv[2]);
 const keterangan = getKeteranganAlokasi(argv[3]);
 const typeUpload = getDocumentType(argv[4]);
-const pathFolder = checkFolderPath(argv[5]);
+const pathFolder = argv[5];
+checkFolderPath(pathFolder)
 
+const kota = pathFolder.includes('/') ? pathFolder.split('/').pop() : pathFolder.split('\\').pop()
+checkCity(kota)
 // const typeFileString = "DTT";
 // const alokasiString = "DES";
 // const pathUploaded = join(
@@ -167,6 +167,15 @@ function checkFolderExists(path) {
   }
 }
 
+function checkCity(city) {
+  if (cities.includes(city)) {
+    return;
+  } else {
+    throw new Error('Kota tidak ditemukan!')
+  }
+
+}
+
 function checkFolderPath(folder) {
   try {
     accessSync(folder)
@@ -175,17 +184,25 @@ function checkFolderPath(folder) {
   }
 
 }
-// function downloadDataDokumen() { }
 
 function getAlokasi(alokasi) {
+  const allAlokasi = ['SEP', 'OKT', 'NOV', 'DES']
+  if (allAlokasi.includes(alokasi)) {
+    return alokasi
+  } else {
+    throw new Error('Alokasi salah!')
+  }
+}
+
+function getKodeAlokasi(alokasi) {
   if (alokasi === 'SEP') {
-    return 'SEP'
+    return '21 | SEPTEMBER'
   } else if (alokasi === 'OKT') {
-    return 'OKT'
+    return '22 | OKTOBER'
   } else if (alokasi === 'NOV') {
-    return 'NOV'
+    return '23 | NOVEMBER'
   } else if (alokasi === 'DES') {
-    return 'DES'
+    return '31 | DESEMBER'
   } else {
     throw new Error('Alokasi salah!')
   }
