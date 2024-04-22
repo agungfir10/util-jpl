@@ -2,8 +2,7 @@ import { readdirSync, accessSync, renameSync, rmdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare } from "./const.js";
 
-const path =
-  "/Users/agungfir/Downloads/KAB. JEPARA TAMBAHAN 2 SEPTEMBER";
+const path = "E:\\DOKUMEN DESEMBER JATENG\\KOTA PEKALONGAN";
 
 const folders = readdirSync(path).sort(naturalCompare);
 
@@ -13,7 +12,7 @@ folders.forEach((folder) => {
   //   rmdirSync(join(path, folder));
   // }
   try {
-    accessSync(join(path, folder, "DTT.pdf"));
+    accessSync(join(path, folder, "PERWAKILAN.pdf"));
   } catch (e) {
     console.log(folder);
     // renameSync(join(path, folder), join(path, "ALL", folder));

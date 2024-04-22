@@ -257,3 +257,21 @@ node --stack-size=9999999 upload_dtt_tambahan_3_sep.js "E:\DOKUMEN TAMBAHAN 3 JA
 ```
 node upload_doc.js DTT SEP +1 E:/PATH
 ```
+
+### UPLOAD
+
+- REKAP LINK ALOKASI
+  - SEP
+  - OKT
+  - NOV
+  - DES
+- REKAP LINK KOTA
+  - SEP
+    - KAB. BATANG
+    - KAB. BREBES
+- REKAP LINK KECAMATAN
+  - SEP
+    - KAB. BATANG
+      - BANDAR
+    - KAB. BREBES
+      -
