@@ -1,4 +1,3 @@
-import fitz  # PyMuPDF
 import os
 import shutil
 import subprocess
@@ -16,7 +15,8 @@ def split_pdf_to_images(path):
         files = natsorted([file for file in all_files if os.path.isfile(os.path.join(path, folder, file))])
 
         for file in files:
-            shutil.move(os.path.join(path, folder, file), os.path.join(path))
+            if '.pdf' in file:
+                shutil.move(os.path.join(path, folder, file), os.path.join(path))
 
 if len(argv) >= 2:
     print('Proses memindah...')

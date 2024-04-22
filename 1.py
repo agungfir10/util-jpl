@@ -13,21 +13,22 @@ def split_pdf_to_images(index, path):
         print('Splitted Finish...')
     else:
         print(f'{index + 1}/ {len(files)}...')
-        pdf_file = os.path.join(path, files[index])
-        folder,ext = os.path.splitext(os.path.join(path, files[index]))
+        if '.pdf' in files[index]:
+            pdf_file = os.path.join(path, files[index])
+            folder,ext = os.path.splitext(os.path.join(path, files[index]))
 
-        pdf_document = fitz.open(pdf_file)
+            pdf_document = fitz.open(pdf_file)
 
-        for page_number in range(len(pdf_document)):
-            page = pdf_document[page_number]
-            
-            image_list = page.get_displaylist()    
-            mx = fitz.Matrix(2, 2)
-            image = image_list.get_pixmap(matrix = mx)
+            for page_number in range(len(pdf_document)):
+                page = pdf_document[page_number]
+                
+                image_list = page.get_displaylist()    
+                mx = fitz.Matrix(2, 2)
+                image = image_list.get_pixmap(matrix = mx)
 
-            if not os.path.exists(os.path.join(path, folder)):
-                os.mkdir(os.path.join(path, folder))
-            image.pil_save(os.path.join(path, folder, f"{page_number}.jpg"), optimize=False)
+                if not os.path.exists(os.path.join(path, folder)):
+                    os.mkdir(os.path.join(path, folder))
+                image.pil_save(os.path.join(path, folder, f"{page_number}.jpg"), optimize=False)
 
         split_pdf_to_images(index + 1, path)
 

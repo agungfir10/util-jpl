@@ -1,13 +1,13 @@
-import { accessSync, renameSync, readdirSync, rename } from "fs";
+import { accessSync, renameSync, readdirSync, rename, lstatSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "F:\\FILE BARU REMBANG OKTOBER\\KAB REMBANG TAMB 3 OKT";
+const path = "/Users/agungfir/Downloads/KAB. REMBANG TAMBAHAN 3 SEPTEMBER";
 // const files = readdirSync(join(path)).sort(naturalCompare);
-const folders = readdirSync(join(path)).sort(naturalCompare);
+const folders = readdirSync(join(path)).sort(naturalCompare).filter(folder => lstatSync(join(path, folder)).isDirectory())
 
 folders.forEach((folder) => {
-  const files = readdirSync(join(path, folder)).sort(naturalCompare);
+  const files = readdirSync(join(path, folder)).sort(naturalCompare).filter(file => file.includes('.pdf'))
   files.forEach((file) => {
     const [filename, ext] = splitext(file);
     console.log(filename);

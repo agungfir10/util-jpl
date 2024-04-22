@@ -20,10 +20,12 @@ def split_pdf_to_images(path):
         for image in images:
             if '.jpg' in image or '.png' in image:
                 if os.path.exists(os.path.join(path, folder, image)):
-                    command = f'tesseract "{os.path.join(path, folder, image)}" stdout -l ind+eng'
+                    os.chdir(os.path.join(path))
+                    command = f'''tesseract "{os.path.join(path, folder, image)}" stdout -l ind+eng'''
                     print(folder, image)
                     # Execute the command and capture the output
-                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                    process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+                    # output_str = subprocess.run(command, check=True, capture_output=True,shell=True)
                     
                     output, _ = process.communicate()
                     output_str = output.decode()

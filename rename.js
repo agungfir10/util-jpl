@@ -2,20 +2,20 @@ import { renameSync, readdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "F:\\FILE BARU REMBANG OKTOBER\\KAB REMBANG TAMB 3 OKT";
+const path = "/Users/agungfir/Downloads/KAB. REMBANG TAMBAHAN 3 SEPTEMBER";
 const folders = readdirSync(join(path)).sort(naturalCompare);
 
 // folders.forEach((folder) => {
-//   // const kota = folder.split("-")[0];
-//   // const kec = folder.split("-")[1];
-//   // const desa = folder.split("-")[2];
+//   const kota = folder.split("-")[0];
+//   const kec = folder.split("-")[1];
+//   const desa = folder.split("-")[2];
 //   // const kec = folder.split("~")[0];
 //   // const desa = folder.split("~")[1].replace("+1", "");
 //   const newName = `KOTA PEKALONGAN-PEKALONGAN UTARA-${folder}`;
 //   // const newName = `KAB. SEMARANG-BANCAK-${desa}`;
-//   // const newName = `KAB. GROBOGAN-${kec}-${desa}`;
+// const newName = `KAB. REMBANG-${kec}-${desa}`;
 
-//   renameSync(join(path, folder), join(path, newName));
+// renameSync(join(path, folder), join(path, newName));
 
 //   // const files = fs
 //   //   .readdirSync(join(path, newName))

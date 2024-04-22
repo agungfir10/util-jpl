@@ -3,7 +3,7 @@ import { join } from "path";
 import { naturalCompare } from "./const.js";
 
 const path =
-  "E:\\DOKUMEN TAMBAHAN 1 JATENG\\DOKUMEN OKTOBER TAMBAHAN 1\\KAB. REMBANG";
+  "/Users/agungfir/Downloads/KAB. JEPARA TAMBAHAN 2 SEPTEMBER";
 
 const folders = readdirSync(path).sort(naturalCompare);
 

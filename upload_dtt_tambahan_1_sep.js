@@ -9,9 +9,8 @@ import {
 import https from "https";
 import { join } from "path";
 import dtt from "./data/SEP_TAMBAHAN_1_UPLOAD.json" assert { type: "json" };
-import { formatDate } from "./const.js";
+import { __dirname, formatDate } from "./const.js";
 import chalk from "chalk";
-
 const pathFolder = process.argv[2];
 const typeUpload = "7 | DTT";
 const typeUploadString = "DTT";
@@ -19,13 +18,14 @@ const typeFileString = "DTT";
 const alokasi = "SEP_TAMBAHAN_1";
 const alokasiString = "SEP";
 const pathUploaded = join(
-  "./data",
+  "data",
   `UPLOADED_${typeUploadString}_${alokasi}.txt`
 );
 const pathIndex = join(
   "cache",
   `${pathFolder
     .replaceAll("\\", "-")
+    .replaceAll('/', '-')
     .replaceAll(":", "")}-${typeUploadString}-index.txt`
 );
 

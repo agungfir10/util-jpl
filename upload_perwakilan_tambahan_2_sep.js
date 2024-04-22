@@ -26,6 +26,7 @@ const pathIndex = join(
   "cache",
   `${pathFolder
     .replaceAll("\\", "-")
+    .replaceAll("/", "-")
     .replaceAll(":", "")}-${typeUploadString}-index.txt`
 );
 

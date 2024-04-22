@@ -12,11 +12,17 @@ import dtt from "./data/DES_REG_UPLOAD.json" assert { type: "json" };
 import { formatDate } from "./const.js";
 import chalk from "chalk";
 
-const pathFolder = process.argv[2];
-const typeUpload = "7 | DTT";
+// argv[2] = ALOKASI
+// argv[3] = KETERANGAN (REG, +1, +2, +3)
+// argv[4] = JENIS DOKUMEN
+
+const alokasi = process.argv[2];
+const keterangan = process.argv[3];
+const typeUpload = process.argv[4];
+const pathFolder = process.argv[5];
+
 const typeUploadString = "DTT";
 const typeFileString = "DTT";
-const alokasi = "DES_REG";
 const alokasiString = "DES";
 const pathUploaded = join(
   "./data",
@@ -145,7 +151,7 @@ function writeLog(text) {
 if (pathFolder.includes(alokasiString)) {
   uploadDtt();
 } else {
-  console.log(chalk.white.bgRed("CHECK FOLDER DAN ALOKASI APAKAH SESUAI"));
+  console.log(chalk.white.bgRed("Nama folder dan alokasi salah!"));
 }
 
 function checkFolderExists(path) {
@@ -154,5 +160,37 @@ function checkFolderExists(path) {
     return true;
   } catch (e) {
     return false;
+  }
+}
+
+function downloadDataDokumen() {
+
+}
+
+function getKeteranganAlokasi(keterangan) {
+  if (keterangan === 'REG') {
+    return 'REG'
+  } else if (keterangan === '+1') {
+    return 'TAMBAHAN 1'
+  } else if (keterangan === '+2') {
+    return 'TAMBAHAN 2'
+  } else if (keterangan === '+3') {
+    return 'TAMBAHAN 3'
+  } else {
+    throw new Error('Keterangan alokasi salah!')
+  }
+}
+
+function getDocumentType(type) {
+  if (type === 'DTT') {
+    return '7 | DTT'
+  } else if (type === 'SPTJM') {
+    return '9 | SPTJM (input nomor-DTT)'
+  } else if (type === 'PENGGANTI') {
+    return '10 | BAST PENGGANTI (input nomor DTT)'
+  } else if (type === 'PERWAKILAN') {
+    return '11 | BAST PERWAKILAN (input nomor DTT)'
+  } else {
+    throw new Error('Salah tipe dokumen...')
   }
 }
