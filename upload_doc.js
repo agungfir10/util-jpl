@@ -163,34 +163,32 @@ function checkFolderExists(path) {
   }
 }
 
-function downloadDataDokumen() {
-
-}
+function downloadDataDokumen() {}
 
 function getKeteranganAlokasi(keterangan) {
-  if (keterangan === 'REG') {
-    return 'REG'
-  } else if (keterangan === '+1') {
-    return 'TAMBAHAN 1'
-  } else if (keterangan === '+2') {
-    return 'TAMBAHAN 2'
-  } else if (keterangan === '+3') {
-    return 'TAMBAHAN 3'
+  if (keterangan === "REG") {
+    return "REG";
+  } else if (keterangan === "+1") {
+    return "TAMBAHAN 1";
+  } else if (keterangan === "+2") {
+    return "TAMBAHAN 2";
+  } else if (keterangan === "+3") {
+    return "TAMBAHAN 3";
   } else {
-    throw new Error('Keterangan alokasi salah!')
+    throw new Error("Keterangan alokasi salah!");
   }
 }
 
 function getDocumentType(type) {
-  if (type === 'DTT') {
-    return '7 | DTT'
-  } else if (type === 'SPTJM') {
-    return '9 | SPTJM (input nomor-DTT)'
-  } else if (type === 'PENGGANTI') {
-    return '10 | BAST PENGGANTI (input nomor DTT)'
-  } else if (type === 'PERWAKILAN') {
-    return '11 | BAST PERWAKILAN (input nomor DTT)'
+  if (type === "DTT") {
+    return "7 | DTT";
+  } else if (type === "SPTJM") {
+    return "9 | SPTJM (input nomor-DTT)";
+  } else if (type === "PENGGANTI") {
+    return "10 | BAST PENGGANTI (input nomor DTT)";
+  } else if (type === "PERWAKILAN") {
+    return "11 | BAST PERWAKILAN (input nomor DTT)";
   } else {
-    throw new Error('Salah tipe dokumen...')
+    throw new Error("Salah tipe dokumen...");
   }
 }
