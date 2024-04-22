@@ -1,5 +1,5 @@
-import dtt from "./data/OKT_TAMBAHAN_2.json" assert { type: "json" };
-import tanggal from "./data/TANGGAL_SEP_TAMBAHAN_2.json" assert { type: "json" };
+import dtt from "./data/SEP_TAMBAHAN_3.json" assert { type: "json" };
+import tanggal from "./data/TANGGAL_SEP_TAMBAHAN_3.json" assert { type: "json" };
 import fs from "fs";
 
 // tanggal.forEach((d) => {
@@ -29,4 +29,4 @@ dtt.forEach((d) => {
   }
 });
 
-fs.writeFileSync("./data/OKT_TAMBAHAN_2_UPLOAD.json", JSON.stringify(newDtt));
+fs.writeFileSync("./data/SEP_TAMBAHAN 3_UPLOAD.json", JSON.stringify(newDtt));
