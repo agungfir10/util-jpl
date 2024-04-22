@@ -12,7 +12,6 @@ def split_pdf_to_images(path):
     folders = natsorted([folder for folder in all_items if os.path.isdir(os.path.join(path, folder))])
 
     for folder in folders:
-        print(folder)
 
         image_items = os.listdir(os.path.join(path, folder))
         images = natsorted([image for image in image_items if os.path.isfile(os.path.join(path, folder, image))])
@@ -86,7 +85,8 @@ def split_pdf_to_images(path):
                             os.mkdir(os.path.join(path, folder, 'DTT'))
                         shutil.move(os.path.join(path, folder, image), os.path.join(path, folder, 'DTT', image))
                     else:
-                        print(output_str)
+                        print(folder, image, 'tidak bisa terbaca OCR')
+
 
 
 if len(argv) >= 2:
