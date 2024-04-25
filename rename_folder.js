@@ -2,7 +2,7 @@ import { renameSync, readdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "/Users/agungfir/Downloads/KAB. REMBANG TAMBAHAN 3 SEPTEMBER";
+const path = "/Users/agungfir/Downloads/TAMBAHAN 2/KAB BLORA";
 const folders = readdirSync(join(path)).sort(naturalCompare);
 
 // folders.forEach((folder) => {

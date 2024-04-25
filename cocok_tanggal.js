@@ -1,5 +1,5 @@
 import dtt from "./data/SEP_TAMBAHAN_3.json" assert { type: "json" };
-import tanggal from "./data/TANGGAL_SEP_TAMBAHAN_3.json" assert { type: "json" };
+import tanggal from "./data/TANGGAL.json" assert { type: "json" };
 import fs from "fs";
 
 // tanggal.forEach((d) => {

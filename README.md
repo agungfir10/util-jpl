@@ -275,3 +275,7 @@ node upload_doc.js DTT SEP +1 E:/PATH
       - BANDAR
     - KAB. BREBES
       -
+
+```
+bun upload_doc.js SEP +2 DTT "/Users/agungfir/Downloads/TAMBAHAN 2/SEPTEMBER/KAB. BLORA" && bun upload_doc.js SEP +2 SPTJM "/Users/agungfir/Downloads/TAMBAHAN 2/SEPTEMBER/KAB. BLORA" && bun upload_doc.js SEP +2 PENGGANTI "/Users/agungfir/Downloads/TAMBAHAN 2/SEPTEMBER/KAB. BLORA" && bun upload_doc.js SEP +2 PERWAKILAN "/Users/agungfir/Downloads/TAMBAHAN 2/SEPTEMBER/KAB. BLORA"
+```

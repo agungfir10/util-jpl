@@ -1,49 +1,59 @@
-import fs from "fs";
+import { readFileSync, writeFileSync } from "fs";
+import { join } from 'path';
 import readline from "readline";
 import { google } from "googleapis";
-import credentials from "./client_secret.json" assert { type: "json" };
 
 const SCOPES = ["https://www.googleapis.com/auth/drive.file"];
-const TOKEN_PATH = "token.json";
+const TOKEN_PATH = "data/TOKEN.json";
+const CLIENT_SECRET = ""
+const CLIENT_ID = ""
+const REDIRECT_URIS = []
 
-const { client_secret, client_id, redirect_uris } = credentials.web;
 const oAuth2Client = new google.auth.OAuth2(
-  client_id,
-  client_secret,
-  redirect_uris
+  CLIENT_ID,
+  CLIENT_SECRET,
+  REDIRECT_URIS
 );
 
-function authorize() {
-  fs.readFile(TOKEN_PATH, (err, token) => {
-    if (err) return getAccessToken(oAuth2Client);
-    oAuth2Client.setCredentials(JSON.parse(token));
-  });
+function getAccessToken() {
+  try {
+    const res = readFileSync(TOKEN_PATH)
+    return JSON.parse(res.toString())
+  } catch (e) {
+    return getNewToken()
+  }
 }
 
-function getAccessToken(oAuth2Client) {
+function getNewToken() {
   const authUrl = oAuth2Client.generateAuthUrl({
     access_type: "offline",
     scope: SCOPES,
   });
-  console.log("Authorize this app by visiting this url:", authUrl);
+  console.log("Autorisasi dengan mengunjungi: ", authUrl);
 
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
   });
 
-  rl.question("Enter the code from that page here: ", (code) => {
+  rl.question("Masukkan kode autentikasi disini: ", (code) => {
     rl.close();
     oAuth2Client.getToken(code, (err, token) => {
       if (err) return console.error("Error retrieving access token", err);
+
       oAuth2Client.setCredentials(token);
-      fs.writeFile(TOKEN_PATH, JSON.stringify(token), (err) => {
-        if (err) return console.error(err);
-        console.log("Token stored to", TOKEN_PATH);
-      });
-      callback(oAuth2Client);
+      try {
+        writeFileSync(TOKEN_PATH, JSON.stringify(token));
+        return token
+      } catch (e) {
+        console.log('Gagal menyimpan token!')
+      }
     });
   });
+}
+
+function authorize(token) {
+  oAuth2Client.setCredentials(JSON.parse(token));
 }
 
 function refreshToken() {
