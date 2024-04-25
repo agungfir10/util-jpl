@@ -2,18 +2,18 @@ import { renameSync, readdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "F:\\+3\\PANGKAH~SEPT";
+const path = "F:\\KAB DEMAK TAMBAHAN III\\NOV";
 const folders = readdirSync(join(path)).sort(naturalCompare);
 
 folders.forEach((folder) => {
-//   const kota = folder.split("-")[0];
-  // const kec = folder.split("-")[1];
-  // const desa = folder.split("-")[2];
+  // const kota = folder.split("-")[0];
+  const kec = folder.split("-")[1];
+  const desa = folder.split("-")[2];
 //   // const kec = folder.split("~")[0];
 //   // const desa = folder.split("~")[1].replace("+1", "");
-  const newName = `KAB. TEGAL-PANGKAH-${folder}`;
+  // const newName = `KAB. TEGAL-PANGKAH-${folder}`;
   // const newName = `KAB. GROBOGAN-TANGGUNGHARJO-${desa}`;
-// const newName = `KAB. DEMAK-${kec}-${desa}`;
+const newName = `KAB. DEMAK-${kec}-${desa}`;
 
 renameSync(join(path, folder), join(path, newName));
 

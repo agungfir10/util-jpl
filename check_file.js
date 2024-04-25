@@ -2,7 +2,7 @@ import { readdirSync, accessSync, renameSync, rmdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare } from "./const.js";
 
-const path = "E:\\DOKUMEN TAMBAHAN 3 JATENG\\SEPTEMBER\\KOTA TEGAL";
+const path = "E:\\DOKUMEN TAMBAHAN 3 JATENG\\NOVEMBER\\KAB. DEMAK";
 
 const folders = readdirSync(path).sort(naturalCompare);
 

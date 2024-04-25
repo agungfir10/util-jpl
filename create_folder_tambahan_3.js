@@ -4,11 +4,11 @@ import { __dirname } from "./const.js";
 import { join } from "path";
 
 const path =
-  "F:\\+3\\KOTA TEGAL\\NOV";
+  "E:\\DOKUMEN TAMBAHAN 3 JATENG\\NOVEMBER\\KAB. DEMAK";
 
 let counter = 0;
 cities.forEach((city) => {
-  if (city.KOTA === "KOTA TEGAL") {
+  if (city.KOTA === "KAB. DEMAK") {
     mkdirSync(join(path, `${city.KOTA}-${city.KECAMATAN}-${city.DESA}`));
     counter++;
   }

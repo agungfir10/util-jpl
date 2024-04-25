@@ -2,7 +2,7 @@ import { accessSync, renameSync, readdirSync, rename, lstatSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "/Users/agungfir/Downloads/KAB. REMBANG TAMBAHAN 3 SEPTEMBER";
+const path = "/Users/agungfir/Downloads/TAMBAHAN 2/KAB BLORA";
 // const files = readdirSync(join(path)).sort(naturalCompare);
 const folders = readdirSync(join(path)).sort(naturalCompare).filter(folder => lstatSync(join(path, folder)).isDirectory())
 
@@ -13,7 +13,7 @@ folders.forEach((folder) => {
     console.log(filename);
     renameSync(
       join(path, folder, file),
-      join(path, folder, `KAB. REMBANG-${folder}-${filename}${ext}`)
+      join(path, folder, `KAB. BLORA-${folder}-${filename}${ext}`)
     );
   });
 });

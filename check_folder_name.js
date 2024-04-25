@@ -1,13 +1,13 @@
-import cities from "./data/NOV_TAMBAHAN 1_UPLOAD.json" assert { type: "json" };
+import cities from "./data/NOV_TAMBAHAN 3_UPLOAD.json" assert { type: "json" };
 import { accessSync } from "fs";
 import { join } from "path";
 
-const path = "F:\\0000TAMB REMBANG\\TAMBAHAN PATI NOV\\KAB REMBANG +1";
+const path = "F:\\KAB DEMAK TAMBAHAN III\\NOV";
 
 let i=0
 cities.forEach((city) => {
   const { KOTA, KECAMATAN, DESA } = city;
-  if (KOTA === "KAB. REMBANG") {
+  if (KOTA === "KAB. DEMAK") {
     try {
       accessSync(join(path, `${KOTA}-${KECAMATAN}-${DESA}`));
       // console.log(`${KOTA}-${KECAMATAN}-${DESA}`);
