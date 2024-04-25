@@ -100,7 +100,7 @@ function rekapDoc(city) {
                         const SPTJM = contents.children[11].textContent;
                         const PENGGANTI = contents.children[12].textContent;
                         const PERWAKILAN = contents.children[13].textContent;
-                        const DESA = contents.children[2].textContent;
+                        const DESA = contents.children[2].textContent.trim();
 
                         rekap.push({
                             KOTA,
