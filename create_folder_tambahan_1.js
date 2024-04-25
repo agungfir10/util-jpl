@@ -4,7 +4,7 @@ import { __dirname } from "./const.js";
 import { join } from "path";
 
 const path =
-  "E:\\DOKUMEN TAMBAHAN 1 JATENG\\DOKUMEN OKTOBER TAMBAHAN 1\\KAB. REMBANG";
+  "E:\\DOKUMEN TAMBAHAN 1 JATENG\\SEPTEMBER\\KAB. REMBANG";
 
 let counter = 0;
 

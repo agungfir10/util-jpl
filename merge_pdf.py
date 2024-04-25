@@ -13,13 +13,13 @@ def split_pdf_to_images(path):
 
     for i,folder in enumerate(folders):
         pdf_merger = PdfMerger()
-        if os.path.exists(os.path.join(path, folder, 'BAST DESA.pdf')) and os.path.exists(os.path.join(path, folder, 'DTT.pdf')):
+        if os.path.exists(os.path.join(path, folder, '00DTT.pdf')) and os.path.exists(os.path.join(path, folder, '0DTT.pdf')):
             print(folder)
-            pdf_merger.append(os.path.join(path, folder, 'BAST DESA.pdf'))
-            pdf_merger.append(os.path.join(path, folder, 'DTT.pdf'))
+            pdf_merger.append(os.path.join(path, folder, '00DTT.pdf'))
+            pdf_merger.append(os.path.join(path, folder, '0DTT.pdf'))
             pdf_merger.write(os.path.join(path, folder, 'BAST-DESA-DTT.pdf'))
             pdf_merger.close()
-            os.remove(os.path.join(path, folder, 'DTT.pdf'))
+            # os.remove(os.path.join(path, folder, 'DTT.pdf'))
             os.rename(os.path.join(path, folder, 'BAST-DESA-DTT.pdf'), os.path.join(path, folder, 'DTT.pdf'))
 
 if len(argv) >= 2:

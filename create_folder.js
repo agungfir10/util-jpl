@@ -8,7 +8,7 @@ const path = "E:\\DOKUMEN DESEMBER JATENG\\KOTA SEMARANG";
 let counter = 0;
 
 cities.forEach((city) => {
-  if (city.kota === "KOTA SEMARANG") {
+  if (city.kota === "KAB. BLORA") {
     mkdirSync(join(path, `${city.kota}-${city.kec}-${city.desa}`));
     counter++;
   }
