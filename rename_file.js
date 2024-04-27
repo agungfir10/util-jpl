@@ -2,7 +2,7 @@ import { accessSync, renameSync, readdirSync, rename, lstatSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "/Users/agungfir/Downloads/TAMBAHAN 2/KAB BLORA";
+const path = "/Users/agungfir/Downloads/TAMBAHAN 3/SEPTEMBER/KAB. PATI";
 // const files = readdirSync(join(path)).sort(naturalCompare);
 const folders = readdirSync(join(path)).sort(naturalCompare).filter(folder => lstatSync(join(path, folder)).isDirectory())
 
@@ -10,10 +10,23 @@ folders.forEach((folder) => {
   const files = readdirSync(join(path, folder)).sort(naturalCompare).filter(file => file.includes('.pdf'))
   files.forEach((file) => {
     const [filename, ext] = splitext(file);
-    console.log(filename);
+    let newFilename
+    if (filename.includes('KEL.')) {
+      newFilename = filename.substring(filename.indexOf('KEL. ') + 5, filename.indexOf('KEC'));
+      // console.log(newFilename)
+    } else {
+      newFilename = filename.substring(filename.indexOf('KEL ') + 4, filename.indexOf('KEC'));
+      // console.log(newFilename)
+    }
+    // const newFilename = filename.split(' ')[1]
+    // console.log(filename);
+    // renameSync(
+    //   join(path, folder, file),
+    //   join(path, folder, `KAB. PATI-${folder}-${newFilename}${ext}`)
+    // );
     renameSync(
       join(path, folder, file),
-      join(path, folder, `KAB. BLORA-${folder}-${filename}${ext}`)
+      join(path, folder, `${filename.trim().toUpperCase()}${ext}`)
     );
   });
 });

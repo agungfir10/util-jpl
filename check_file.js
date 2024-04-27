@@ -1,4 +1,5 @@
 import { readdirSync, accessSync, renameSync, rmdirSync } from "fs";
+import { unlink } from 'node:fs'
 import { join } from "path";
 import { naturalCompare } from "./const.js";
 
@@ -17,4 +18,10 @@ folders.forEach((folder) => {
     console.log(folder);
     // renameSync(join(path, folder), join(path, "ALL", folder));
   }
+  // try {
+  //   accessSync(join(path, folder, "DTT.pdf"));
+  // } catch (e) {
+  //   console.log(folder);
+  //   // renameSync(join(path, folder), join(path, "ALL", folder));
+  // }
 });

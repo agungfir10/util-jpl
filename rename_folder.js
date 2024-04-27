@@ -2,24 +2,24 @@ import { renameSync, readdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "F:\\KAB DEMAK TAMBAHAN III\\NOV";
+const path = "/Users/agungfir/Downloads/TAMBAHAN 2/KAB BLORA";
 const folders = readdirSync(join(path)).sort(naturalCompare);
 
-folders.forEach((folder) => {
-  // const kota = folder.split("-")[0];
-  const kec = folder.split("-")[1];
-  const desa = folder.split("-")[2];
+// folders.forEach((folder) => {
+//   const kota = folder.split("-")[0];
+//   const kec = folder.split("-")[1];
+//   const desa = folder.split("-")[2];
 //   // const kec = folder.split("~")[0];
 //   // const desa = folder.split("~")[1].replace("+1", "");
-  // const newName = `KAB. TEGAL-PANGKAH-${folder}`;
-  // const newName = `KAB. GROBOGAN-TANGGUNGHARJO-${desa}`;
-const newName = `KAB. DEMAK-${kec}-${desa}`;
+//   const newName = `KOTA PEKALONGAN-PEKALONGAN UTARA-${folder}`;
+//   // const newName = `KAB. SEMARANG-BANCAK-${desa}`;
+// const newName = `KAB. REMBANG-${kec}-${desa}`;
 
 renameSync(join(path, folder), join(path, newName));
 
-//   // const files = fs
-//   //   .readdirSync(join(path, newName))
-//   //   .sort(naturalCompare);
+//   //   // const files = fs
+//   //   //   .readdirSync(join(path, newName))
+//   //   //   .sort(naturalCompare);
 
 //   // if (files.length !== 0) {
 //   //   files.forEach((file) => {
@@ -38,7 +38,7 @@ renameSync(join(path, folder), join(path, newName));
 //   //     // }
 //   //   });
 //   // }
-});
+// });
 
 // folders.forEach((folder) => {
 //   const subFolders = readdirSync(join(path, folder));

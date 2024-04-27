@@ -4,7 +4,7 @@ import { join } from "path";
 
 const path = "F:\\KAB DEMAK TAMBAHAN III\\NOV";
 
-let i=0
+let i = 0
 cities.forEach((city) => {
   const { KOTA, KECAMATAN, DESA } = city;
   if (KOTA === "KAB. DEMAK") {
