@@ -18,17 +18,21 @@ const tahap = getKodeAlokasi(argv[2]);
 let rekap = [];
 let data = []
 let dataUpload = []
-
+let differentCity = false
 function getRekap() {
     if (index < cities.length) {
         if (cities[index + 1] !== undefined) {
-            if (cities[index].KOTA !== cities[index + 1].KOTA) {
-                const dataExcelKota = getDataToExcel(rekap, cities[index].KOTA)
+            if (differentCity) {
+                const dataExcelKota = getDataToExcel(rekap, cities[index - 1].KOTA)
                 data.push(dataExcelKota);
                 dataUpload.push(...rekap)
                 rekap = []
-                index++
-                getRekap()
+                differentCity = false
+            }
+
+            if (cities[index].KOTA !== cities[index + 1].KOTA) {
+                differentCity = true
+                rekapDoc(cities[index])
             } else {
                 rekapDoc(cities[index])
             }
@@ -101,6 +105,8 @@ function rekapDoc(city) {
                         const PENGGANTI = contents.children[12].textContent;
                         const PERWAKILAN = contents.children[13].textContent;
                         const DESA = contents.children[2].textContent.trim();
+                        const PERSENTASE = contents.children[15].textContent;
+
 
                         rekap.push({
                             KOTA,
@@ -111,6 +117,7 @@ function rekapDoc(city) {
                             SPTJM,
                             PENGGANTI,
                             PERWAKILAN,
+                            PERSENTASE
                         });
                     }
                     index++;
@@ -174,6 +181,7 @@ function getDataToExcel(dataKota, kota) {
             { label: "SPTJM", value: "SPTJM" },
             { label: "PENGGANTI", value: "PENGGANTI" },
             { label: "PERWAKILAN", value: "PERWAKILAN" },
+            { label: "PERSENTASE", value: "PERSENTASE" },
         ],
         content: rekapFilter,
     };

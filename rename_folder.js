@@ -2,7 +2,7 @@ import { renameSync, readdirSync } from "fs";
 import { join } from "path";
 import { naturalCompare, splitext } from "./const.js";
 
-const path = "/Users/agungfir/Downloads/TAMBAHAN 2/KAB BLORA";
+const path = "/Users/agungfir/Downloads/TAMBAHAN 1/NOVEMBER/KAB. PATI";
 const folders = readdirSync(join(path)).sort(naturalCompare);
 
 // folders.forEach((folder) => {
@@ -15,7 +15,7 @@ const folders = readdirSync(join(path)).sort(naturalCompare);
 //   // const newName = `KAB. SEMARANG-BANCAK-${desa}`;
 // const newName = `KAB. REMBANG-${kec}-${desa}`;
 
-renameSync(join(path, folder), join(path, newName));
+// renameSync(join(path, folder), join(path, newName));
 
 //   //   // const files = fs
 //   //   //   .readdirSync(join(path, newName))
@@ -49,7 +49,7 @@ renameSync(join(path, folder), join(path, newName));
 //     renameSync(join(path, folder, subfolder), join(path, folder, newName));
 //   });
 // });
-// folders.forEach((folder) => {
-//   const newName = folder.replaceAll("NOV ", "");
-//   renameSync(join(path, folder), join(path, newName));
-// });
+folders.forEach((folder) => {
+    const newName = folder.replaceAll("KEC ", "");
+    renameSync(join(path, folder), join(path, newName));
+});

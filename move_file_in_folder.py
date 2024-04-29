@@ -12,11 +12,12 @@ def split_pdf_to_images(path):
 
     for folder in folders:
         all_files = os.listdir(os.path.join(path, folder))
-        files = natsorted([file for file in all_files if os.path.isfile(os.path.join(path, folder, file))])
+        files = natsorted([file for file in all_files if os.path.isdir(os.path.join(path, folder, file))])
 
         for file in files:
-            if '.pdf' in file:
-                shutil.move(os.path.join(path, folder, file), os.path.join(path))
+            # if '.pdf' in file:
+                # shutil.move(os.path.join(path, folder, file), os.path.join(path))
+            shutil.move(os.path.join(path, folder, file), os.path.join(path))
 
 if len(argv) >= 2:
     print('Proses memindah...')
